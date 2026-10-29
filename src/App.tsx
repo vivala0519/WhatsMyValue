@@ -43,7 +43,7 @@ function PlayerCard({player, side, revealed, correct, preview = false}: {
             <div className={`player-value ${revealed ? 'revealed' : 'hidden-value'}`}>
                 <span>시장가치</span>
                 <strong>{revealed ? formatValue(player.value) : <span aria-label="비공개">?</span>}</strong>
-                {!preview && <small>{revealed ? '2026.10.29 기준 환산액' : '더 높을까요, 더 낮을까요?'}</small>}
+                {!preview && <small>{revealed ? '' : '더 높을까요, 더 낮을까요?'}</small>}
             </div>
         </div>
     </article>
@@ -335,12 +335,12 @@ export default function App() {
                     <span>{e.name}</span><strong>{records.best[recordKey(e.id, 'easy')] ?? '—'}</strong><strong>{records.best[recordKey(e.id, 'hard')] ?? '—'}</strong>
                 </div>)}</div>
             {records.history.length > 0 && <><h3>최근 대결</h3>
-                <div className="recent-list">{records.history.map((r, i) => <div key={`${r.date}-${i}`}>
+                <div className="recent-list" style={{ paddingBottom: "10px" }}>{records.history.map((r, i) => <div key={`${r.date}-${i}`}>
                     <span>{editions.find(e => e.id === r.edition)?.name}<small>{r.difficulty === 'easy' ? '쉬움' : '어려움'} · {new Date(r.date).toLocaleDateString('ko-KR', {
                         month: 'long',
                         day: 'numeric'
                     })}</small></span><strong>{r.score}점</strong></div>)}</div>
-            </>}<p className="help-data">기록은 현재 브라우저에 저장돼요. 아직 도전하지 않은 무대는 대시로 표시돼요.</p>
+            </>}
             <button className="primary" onClick={() => setModal(null)}>계속하기</button>
         </Modal>}
         {modal === 'exit' &&
