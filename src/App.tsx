@@ -1,6 +1,6 @@
 import {useEffect, useRef, useState} from 'react'
 import type {ReactNode} from 'react'
-import {DATA_LABEL, editions, getPool, players} from './data'
+import {editions, getPool, players} from './data'
 import type {EditionId, Player} from './data'
 import {advance, answer, formatValue, newMatch} from './game'
 import type {Difficulty, Guess, Match} from './game'
