@@ -165,10 +165,10 @@ export default function App() {
         <main className="shell">
             {screen === 'home' && <>
                 <div className="masthead">
-                    <div className="brand"><span className="brand-symbol"><Icon name="ball" size={25}/></span>축구 시장가치 퀴즈
+                    <div className="brand">축구 시장가치 퀴즈
                     </div>
                     <button className="record-button" onClick={() => setModal('records')}><Icon name="trophy"
-                                                                                                size={18}/><span>내 최고기록</span><strong>{allTimeBest}</strong>
+                                                                                                size={18}/><span>최고기록</span><strong>{allTimeBest}</strong>
                     </button>
                 </div>
                 <section className="hero">
@@ -196,7 +196,8 @@ export default function App() {
                             <button aria-pressed={difficulty === 'hard'} onClick={() => setDifficulty('hard')}>어려움
                             </button>
                         </div>
-                        <span className="difficulty-hint">{difficulty === 'easy' ? '높다 · 낮다 중 선택해요.' : '높다 · 같다 · 낮다 중 선택해요.'}</span>
+                        <span
+                            className="difficulty-hint">{difficulty === 'easy' ? '높다 · 낮다 중 선택해요.' : '높다 · 같다 · 낮다 중 선택해요.'}</span>
                     </div>
                     <div className="edition-grid">{editions.map(item => <button key={item.id}
                                                                                 className={`edition-card ${edition === item.id ? 'selected' : ''}`}
@@ -327,7 +328,8 @@ export default function App() {
                     <span>{e.name}</span><strong>{records.best[recordKey(e.id, 'easy')] ?? '—'}</strong><strong>{records.best[recordKey(e.id, 'hard')] ?? '—'}</strong>
                 </div>)}</div>
             {records.history.length > 0 && <><h3>최근 대결</h3>
-                <div className="recent-list" style={{ paddingBottom: "10px" }}>{records.history.map((r, i) => <div key={`${r.date}-${i}`}>
+                <div className="recent-list" style={{paddingBottom: "10px"}}>{records.history.map((r, i) => <div
+                    key={`${r.date}-${i}`}>
                     <span>{editions.find(e => e.id === r.edition)?.name}<small>{r.difficulty === 'easy' ? '쉬움' : '어려움'} · {new Date(r.date).toLocaleDateString('ko-KR', {
                         month: 'long',
                         day: 'numeric'
