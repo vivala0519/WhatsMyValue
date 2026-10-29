@@ -1,0 +1,2002 @@
+[
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 487469,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/vitinha-psg-2026-27-1791449317-208806.jpg?lm=4711",
+    "name": "Vitinha",
+    "value": 140000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 502670,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/khvicha-kvaratskhelia-psg-2026-27-1791449220-208804.jpg?lm=4711",
+    "name": "Khvicha Kvaratskhelia",
+    "value": 140000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 670681,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/joao-neves-psg-2026-2027-1791448992-208803.jpg?lm=4711",
+    "name": "João Neves",
+    "value": 140000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 914562,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/desire-doue-psg-2026-2027-1791449531-208807.jpg?lm=4711",
+    "name": "Désiré Doué",
+    "value": 120000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 288230,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dembele-psg-2026-2027-1077344524-1790590925-207661.jpg?lm=4711",
+    "name": "Ousmane Dembélé",
+    "value": 100000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 398073,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/achraf-hakimi-psg-2026-27-1791453033-208828.jpg?lm=4711",
+    "name": "Achraf Hakimi",
+    "value": 80000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 616341,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nuno-mendes-psg-2026-27-1791453134-208830.jpg?lm=4711",
+    "name": "Nuno Mendes",
+    "value": 80000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 661171,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/willian-pacho-ecuador-2026-1789417453-206282.jpg?lm=4711",
+    "name": "Willian Pacho",
+    "value": 80000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 810092,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/warren-zaire-emery-psg-2026-27-1791452722-208827.jpg?lm=4711",
+    "name": "Warren Zaïre-Emery",
+    "value": 80000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 918969,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/camara-lamine-as-monaco-2025-2026-1064934373-1760005369-179892.jpg?lm=4711",
+    "name": "Lamine Camara",
+    "value": 55000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 398184,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ferran-torres-spain-2026-1080273976-1787148064-204128.jpg?lm=4711",
+    "name": "Ferran Torres",
+    "value": 55000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 503770,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/folarin-balogun-1783393019-201700.jpg?lm=4711",
+    "name": "Folarin Balogun",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 745200,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/maghnes-akliouche-psg-2025-2026-1080928033-1788359881-205216.jpg?lm=4711",
+    "name": "Maghnes Akliouche",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 461607,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/esteban-lepaul-stade-rennes-2025-2026-1066687426-1760004990-179885.jpg?lm=4711",
+    "name": "Estéban Lepaul",
+    "value": 45000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 659089,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ilya-zabarnyi-psg-2025-2026-1760030492-179966.jpg?lm=4711",
+    "name": "Ilya Zabarnyi",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 748804,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mika-godts-ajax-2025-2026-1773141531-191445.jpg?lm=4711",
+    "name": "Mika Godts",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 903693,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mayulu-senny-psg-2025-2026-1066941806-1784128041-202313.jpg?lm=4711",
+    "name": "Senny Mayulu",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 653610,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/igor-paixao-olympique-marseille-2025-1761154244-181051.jpg?lm=4711",
+    "name": "Igor Paixão",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 1064871,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/joaquin-panichelli-strasbourg-2025-2026-1759740845-179568.jpg?lm=4711",
+    "name": "Joaquín Panichelli",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 418659,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/amine-gouiri-marseille-2025-1058873905-1745834918-166744.jpg?lm=4711",
+    "name": "Amine Gouiri",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 318470,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/matvey-safonov-psg-2025-2026-1780229686-198439.jpg?lm=4711",
+    "name": "Matvey Safonov",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 350219,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/fabian-ruiz-spain-world-cup-2026-1080275611-1787144292-204118.jpg?lm=4711",
+    "name": "Fabián Ruiz",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 743515,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/robin-risser-2025-france-1060256964-1779977686-198143.jpg?lm=4711",
+    "name": "Robin Risser",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 1020191,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ganiou-ismaelo-2024-2025-rc-lens-1738585589-160048.jpg?lm=4711",
+    "name": "Ismaëlo Ganiou",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 618494,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tyler-morton-olympique-lyon-2025-2026-1065192289-1760004805-179883.jpg?lm=4711",
+    "name": "Tyler Morton",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 652275,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hakon-arnar-haraldsson-lille-2024-1726498905-148185.jpg?lm=4711",
+    "name": "Hákon Arnar Haraldsson",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 181767,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/marquinhos-psg-2025-2026-1778119400-196359.jpg?lm=4711",
+    "name": "Marquinhos",
+    "value": 28000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 1084638,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/karim-coulibaly-werder-bremen-2026-1785342768-203297.jpg?lm=4711",
+    "name": "Karim Coulibaly",
+    "value": 28000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 540664,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dilane-bakwa-nottingham-forest-2025-1763027283-182718.jpg?lm=4711",
+    "name": "Dilane Bakwa",
+    "value": 28000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 334526,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/denis-zakaria-as-monaco-2025-2026-1064935352-1760007770-179915.jpg?lm=4711",
+    "name": "Denis Zakaria",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 659543,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/matthis-abline-fc-nantes-2025-2026-1067009840-1760007064-179908.jpg?lm=4711",
+    "name": "Matthis Abline",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 597659,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/charlie-cresswell-fc-toulouse-2025-26-1768403753-187207.jpg?lm=4711",
+    "name": "Charlie Cresswell",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 655217,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/samson-baidoo-salzburg-2022-1664964675-93684.jpg?lm=4711",
+    "name": "Samson Baidoo",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 368887,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lois-openda-juventus-2025-2526-1758192013-178031.jpg?lm=4711",
+    "name": "Loïs Openda",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 548254,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nathan-ngoy-2026-belgium-1075123182-1780056583-198293.jpg?lm=4711",
+    "name": "Nathan Ngoy",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 463600,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lucas-chevalier-psg-2025-2-1763394493-183046.jpg?lm=4711",
+    "name": "Lucas Chevalier",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 872171,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lucas-beraldo-psg-2026-2027-1793201987-210363.jpg?lm=4711",
+    "name": "Lucas Beraldo",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 992686,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/992686-1726650122.jpg?lm=4711",
+    "name": "Martial Godo",
+    "value": 22000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 1130514,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/samir-el-mourabet-2026-morocco-1075310280-1780319855-198562.jpg?lm=4711",
+    "name": "Samir El Mourabet",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 605184,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jean-clair-todibo-west-ham-2024-2025-1049273098h-1725889822-147537.jpg?lm=4711",
+    "name": "Jean-Clair Todibo",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 745173,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/745173-1693947752.png?lm=4711",
+    "name": "Mamadou Coulibaly",
+    "value": 20000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 1171981,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mathys-detourbet-as-monaco-2025-2026-1081925606-1789554337-206454.jpg?lm=4711",
+    "name": "Mathys Detourbet",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 370846,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/timothy-weah-olympique-de-marseille-2025-2026-1065459905-1758293097-178150.jpg?lm=4711",
+    "name": "Timothy Weah",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 1134251,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/abdelhamid-ait-boudlal-morocco-u17-1709139184-130613.jpg?lm=4711",
+    "name": "Abdelhamid Ait Boudlal",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 743496,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/danois-kevin-2024-2025-aj-auxerre-1750675062-170782.jpg?lm=4711",
+    "name": "Kévin Danois",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 746910,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mohamed-amoura-wolfsburg-2025-1760033257-179968.jpg?lm=4711",
+    "name": "Mohamed Amoura",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 786436,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ismael-doukoure-rc-strasbourg-2024-2025-1050420477-1733500072-156034.jpg?lm=4711",
+    "name": "Ismaël Doukouré",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 1151929,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yassine-gessime-2024-2025-usl-dunkerque-1759402120-179240.jpg?lm=4711",
+    "name": "Gessime Yassine",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 500053,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pavel-sulc-2026-czechia-1075000810-1780302431-198481.jpg?lm=4711",
+    "name": "Pavel Sulc",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 589128,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/feyenoord-striker-ayase-ueda-1764071272-183517.jpg?lm=4711",
+    "name": "Ayase Ueda",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1158.png?lm=1789459236",
+    "id": 1074628,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arthur-avom-fc-lorient-2024-2025-1049348496-1733314485-155754.jpg?lm=4711",
+    "name": "Arthur Avom",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 660860,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/diego-coppola-italia-2025-1790246806-207329.jpg?lm=4711",
+    "name": "Diego Coppola",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 810411,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/810411-1678723431.jpg?lm=4711",
+    "name": "Pablo Pagis",
+    "value": 20000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 1241211,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rudy-matondo-2024-2025-aj-auxerre-1770035534-188591.jpg?lm=4711",
+    "name": "Rudy Matondo",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 1363293,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/patrick-zabi-2025-2026-stade-de-reims-1756736408-176393.jpg?lm=4711",
+    "name": "Patrick Zabi",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 263918,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/aleksandr-golovin-as-monaco-2024-2025-1742792665-164135.jpg?lm=4711",
+    "name": "Aleksandr Golovin",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 789082,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/vanderson-monaco-2024-2025-1727455607-149695.jpg?lm=4711",
+    "name": "Vanderson",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 967346,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/eliezer-mayenda-sunderland-2024-2025-1741681417-162992.jpg?lm=4711",
+    "name": "Eliezer Mayenda",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 912902,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/restes-guillaume-2023-toulouse-fc-1694523857-116482.jpg?lm=4711",
+    "name": "Guillaume Restes",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 659542,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/elye-wahi-2026-ivory-coast-1075304929-1780314851-198535.jpg?lm=4711",
+    "name": "Elye Wahi",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 281963,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lucas-hernandez-2024-2025-psg-1044618923-1748886005-169192.jpg?lm=4711",
+    "name": "Lucas Hernández",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 926978,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hogsberg-lucas-strasbourg-2025-2026-1065259982-1760005284-179891.jpg?lm=4711",
+    "name": "Lucas Høgsberg",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 885445,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hamza-igamane-losc-2025-2026-1066498589-1-1760004692-179880.jpg?lm=4711",
+    "name": "Hamza Igamane",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 807386,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/harder-conrad-2026-denmark-1791549120-208979.jpg?lm=4711",
+    "name": "Conrad Harder",
+    "value": 17000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 364245,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jordan-teze-psv-eindhoven-imago1048873974h-1725288039-147022.jpg?lm=4711",
+    "name": "Jordan Teze",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 466810,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ansu-fati-as-monaco-2025-1758520670-178235.jpg?lm=4711",
+    "name": "Ansu Fati",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 565821,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mika-biereth-as-monaco-2025-2026-1065042535-1760007585-179913.jpg?lm=4711",
+    "name": "Mika Biereth",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 918414,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/paris-brunner-as-monaco-2026-1792701717-209987.jpg?lm=4711",
+    "name": "Paris Brunner",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 1005240,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/christian-mawissa-as-monaco-2024-2025-1048717504h-1725287277-147015.jpg?lm=4711",
+    "name": "Christian Mawissa",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 167799,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pierre-emile-hojbjerg-danemark-2026-1790539588-207606.jpg?lm=4711",
+    "name": "Pierre-Emile Højbjerg",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 361914,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nayef-aguerd-2025-morocco-1071463871-1780316178-198541.jpg?lm=4711",
+    "name": "Nayef Aguerd",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 320748,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sebastian-szymanski-stade-rennais-1790249651-207335.jpg?lm=4711",
+    "name": "Sebastian Szymański",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 557613,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/quentin-merlin-olympique-marseille-2023-2024-1040300186hjpg-1708012626-129508.jpg?lm=4711",
+    "name": "Quentin Merlin",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 1200427,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1200427-1758106573.jpg?lm=4711",
+    "name": "Alexis Vossah",
+    "value": 15000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 569389,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sofiane-diop-ogc-nice-2025-2026-1068452665-1773670185-192129.jpg?lm=4711",
+    "name": "Sofiane Diop",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 1071596,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dro-fernandez-psg-1774274550-192814.jpg?lm=4711",
+    "name": "Dro Fernández",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 579928,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sebastian-nanasi-rc-strasbourg-2024-2025-1049136548h-1725010670-146672.jpg?lm=4711",
+    "name": "Sebastian Nanasi",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 585323,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/filip-jorgensen-chelsea-2024-2025-1049030570h-1726227774-147932.jpg?lm=4711",
+    "name": "Filip Jørgensen",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 670717,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dario-essugo-las-palmas-2024-1738608231-160097.jpg?lm=4711",
+    "name": "Dário Essugo",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 548028,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/franjo-ivanovic-benfica-lissabon-2025-1761670808-181489.jpg?lm=4711",
+    "name": "Franjo Ivanović",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 291200,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/moussa-niakhate-2026-senegal-1075126088-1780384801-198719.jpg?lm=4711",
+    "name": "Moussa Niakhaté",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 462832,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mads-bidstrup-salzburg-2025-1760621914-180550.jpg?lm=4711",
+    "name": "Mads Bidstrup",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 802515,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/noah-nartey-1765798175-185247.jpg?lm=4711",
+    "name": "Noah Nartey",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 990637,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/zachary-athekame-milan-2026-2526-1775631014-194158.jpg?lm=4711",
+    "name": "Zachary Athekame",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 1187942,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/merah-khalis-2025-2026-olympique-lyonnais-1065191080-1-1760004080-179876.jpg?lm=4711",
+    "name": "Khalis Merah",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 648020,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alexsandro-lille-2025-2026-1756079978-175667.jpg?lm=4711",
+    "name": "Alexsandro",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 1016015,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mukau-ngalayel-losc-lille-2024-2025-1732780950-155284.jpg?lm=4711",
+    "name": "Ngal'ayel Mukau",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1158.png?lm=1789459236",
+    "id": 1088199,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arsene-kouassi-lorient-2025-2026-1762507896-182268.jpg?lm=4711",
+    "name": "Arsène Kouassi",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 1166473,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/le-guen-raphael-2025-2026-stade-brestois-1782137984-200603.jpg?lm=4711",
+    "name": "Raphaël Le Guen",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 569140,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sinayoko-lassine-2023-2024-aj-auxerre-1718100865-139103.jpg?lm=4711",
+    "name": "Lassine Sinayoko",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 1111777,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sadibou-sane-fc-metz-2024-2025-1050426037-1733314078-155747.jpg?lm=4711",
+    "name": "Sadibou Sané",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 324795,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/camara-mahdi-2023-2024-stade-brestois-1710182744-131486.jpg?lm=4711",
+    "name": "Mahdi Camara",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 690799,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/anthony-rouault-vfb-stuttgart-2024-1738494783-159984.jpg?lm=4711",
+    "name": "Anthony Rouault",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 467632,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cristian-casseres-jr-toulouse-2025-2026-1773864595-192420.jpg?lm=4711",
+    "name": "Cristian Cásseres Jr.",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 560593,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hicham-boudaoui-2026-algeria-1075754949-1780326630-198612.jpg?lm=4711",
+    "name": "Hicham Boudaoui",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 344152,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/odsonne-edouard-lens-2025-2026-1068661894-1764600337-183996.jpg?lm=4711",
+    "name": "Odsonne Édouard",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 405397,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/keito-nakamura-stade-reims-2026-1788449697-205323.jpg?lm=4711",
+    "name": "Keito Nakamura",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 955070,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ernest-nuamah-olympique-lyon-2024-2025-1055145882-1736522106-158268.jpg?lm=4711",
+    "name": "Ernest Nuamah",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 361256,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/berke-ozer-lille-imago1067442479-1760273506-180179.jpg?lm=4711",
+    "name": "Berke Özer",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 903666,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ethan-mbappe-losc-2024-2025-1049076551-1728485453-150870.jpg?lm=4711",
+    "name": "Ethan Mbappé",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1420.png?lm=1789459251",
+    "id": 1103958,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1103958-1758210995.jpg?lm=4711",
+    "name": "Prosper Peter",
+    "value": 12000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 671594,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/doumbia-kamory-2025-2026-stade-brestois-1765498795-185025.jpg?lm=4711",
+    "name": "Kamory Doumbia",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 739769,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ilan-kebbal-paris-fc-2025-2026-1065910788-1760004599-179879.jpg?lm=4711",
+    "name": "Ilan Kebbal",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 165793,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/takumi-minamino-as-monaco-2024-2025-1053513521-1733500565-156038.jpg?lm=4711",
+    "name": "Takumi Minamino",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 563963,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/salisu-mohammed-2024-2025-as-monaco-1737020196-158714.jpg?lm=4711",
+    "name": "Mohammed Salisu",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 668587,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/flavio-nazinho-sporting-2021-1694077062-116099.jpg?lm=4711",
+    "name": "Nazinho",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 743387,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/idumbo-stanis-sevilla-2024-2025-1735023159-157408.jpg?lm=4711",
+    "name": "Stanis Idumbo",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 392770,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/angel-gomes-losc-2024-2025-1050672355h-1728050821-150352.jpg?lm=4711",
+    "name": "Angel Gomes",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 288225,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ludovic-blas-stade-rennes-2023-1693990726-116024.jpg?lm=4711",
+    "name": "Ludovic Blas",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 551505,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mousa-tamari-2026-jordan-1078060090-1780405090-198809.jpg?lm=4711",
+    "name": "Mousa Al-Tamari",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 931160,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/djaoui-cisse-stade-rennes-2025-2026-1069681605-1773669610-192123.jpg?lm=4711",
+    "name": "Djaoui Cissé",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 1176345,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nagida-mahamadou-2023-2024-stade-rennais-1702911614-124284.jpg?lm=4711",
+    "name": "Mahamadou Nagida",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 891998,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/antoine-mendy-2026-senegal-1071454270-1780384968-198720.jpg?lm=4711",
+    "name": "Antoine Mendy",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 937729,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/937729-1772447527.jpg?lm=4711",
+    "name": "Diogo Sousa",
+    "value": 10000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 1032280,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1032280-1774905283.jpg?lm=4711",
+    "name": "Oso",
+    "value": 10000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 1186789,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1186789-1761139494.jpg?lm=4711",
+    "name": "Kyllian Antonio",
+    "value": 10000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 190393,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/corentin-tolisso-olympique-lyon-2024-1734285498-156751.jpg?lm=4711",
+    "name": "Corentin Tolisso",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 646402,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/abner-lyon-2024-2025-1727455252-149694.jpg?lm=4711",
+    "name": "Abner",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 670096,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tessmann-tanner-2024-2025-olympique-lyonnais-1737382789-158990.jpg?lm=4711",
+    "name": "Tanner Tessmann",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 816580,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tiago-santos-losc-2023-2024-1044119612hjpg-1717072964-138002.jpg?lm=4711",
+    "name": "Tiago Santos",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 864112,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/basar-onal-nec-nijmegen-2025-2026-1774262672-192768.jpg?lm=4711",
+    "name": "Başar Önal",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 649026,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mbow-moustapha-2023-2024-paris-fc-1716325781-137029.jpg?lm=4711",
+    "name": "Moustapha Mbow",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 745461,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lucas-koleosho-espanyol-2025-2026-1759158864-178960.jpg?lm=4711",
+    "name": "Luca Koleosho",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 818495,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/otavio-paris-2025-2026-1760113493-180076.jpg?lm=4711",
+    "name": "Otávio",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 955281,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nhoa-sangui-paris-fc-2025-26-1778671883-196847.jpg?lm=4711",
+    "name": "Nhoa Sangui",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 181778,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/emerson-fc-chelsea-1585310996-34995.jpg?lm=4711",
+    "name": "Emerson",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 581669,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/egan-riley-cj-2025-2026-olympique-de-marseille-1759939461-179835.jpg?lm=4711",
+    "name": "CJ Egan-Riley",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 806793,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/clement-akpa-auxerre-2025-1754412509-174095.jpg?lm=4711",
+    "name": "Clément Akpa",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 1010854,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mathis-amougou-chelsea-2024-2025-1059277189-1742234632-163689.jpg?lm=4711",
+    "name": "Mathis Amougou",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 949113,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pape-demba-diop-zulte-waregem-2025-1756646348-176252.jpg?lm=4711",
+    "name": "Pape Demba Diop",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 631927,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/saud-abdulhamid-roma-2024-2425-1730112247-152646.jpg?lm=4711",
+    "name": "Saud Abdulhamid",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 748445,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/748445-1780325822.jpg?lm=4711",
+    "name": "Yacine Titraoui",
+    "value": 9000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 316884,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/316884-1773950159.jpg?lm=4711",
+    "name": "Dominik Greif",
+    "value": 9000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 332889,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rongier-valentin-2023-2024-olympique-de-marseille-1033762436hjpg-1694192253-116239.jpg?lm=4711",
+    "name": "Valentin Rongier",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 568698,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/soumare-issa-2025-2026-le-havre-ac-1781647255-200082.jpg?lm=4711",
+    "name": "Issa Soumaré",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 1208968,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1208968-1756823312.jpg?lm=4711",
+    "name": "Djibril Coulibaly",
+    "value": 8000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 856068,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jeyland-mitchell-sturm-2026-1773241000-191609.jpg?lm=4711",
+    "name": "Jeyland Mitchell",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 933900,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/933900-1750770965.png?lm=4711",
+    "name": "Samuel Amo-Ameyaw",
+    "value": 8000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 662242,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ndiaye-rassoul-2023-2024-le-havre-ac-1710189438-131500.jpg?lm=4711",
+    "name": "Rassoul Ndiaye",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 1160814,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1160814-1758902837.jpg?lm=4711",
+    "name": "Rayan Fofana",
+    "value": 8000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 344886,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mathieu-udol-rc-lens-1773939127-192529.jpg?lm=4711",
+    "name": "Matthieu Udol",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 986291,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andrija-bulatovic-rc-lens-2025-26-1778673333-196862.jpg?lm=4711",
+    "name": "Andrija Bulatovic",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 1297674,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1297674-1778312570.jpg?lm=4711",
+    "name": "Mezian Mesloub",
+    "value": 8000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 578421,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ruben-kluivert-casa-pia-ac-2024-1753465170-173187.jpg?lm=4711",
+    "name": "Ruben Kluivert",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 1097113,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/boudache-kail-2025-2026-ogc-nice-1073046431-1772815859-191168.jpg?lm=4711",
+    "name": "Kaïl Boudache",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 1200423,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1200423-1762881060.jpg?lm=4711",
+    "name": "Rémi Himbert",
+    "value": 8000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 610405,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/maurits-kjaergaard-salzburg-2026-1788263130-205036.jpg?lm=4711",
+    "name": "Maurits Kjærgaard",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1158.png?lm=1789459236",
+    "id": 496706,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/talbi-montassar-2024-2025-fc-lorient-1727884716-150151.jpg?lm=4711",
+    "name": "Montassar Talbi",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1420.png?lm=1789459251",
+    "id": 804711,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/804711-1672669470.jpg?lm=4711",
+    "name": "Ousmane Camara",
+    "value": 8000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 953004,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/thomas-jorgensen-viborg-2026-1776252934-194760.jpg?lm=4711",
+    "name": "Thomas Jørgensen",
+    "value": 7500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 643259,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gill-orlando-2026-paraguay-1781525519-199948.jpg?lm=4711",
+    "name": "Orlando Gill",
+    "value": 7500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 807165,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/807165-1724754649.jpg?lm=4711",
+    "name": "Bamo Meïté",
+    "value": 7000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 191056,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/brice-samba-stade-rennes-2024-2025-1057477180-1-1770042636-188613.jpg?lm=4711",
+    "name": "Brice Samba",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 533662,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cameron-archer-sheffield-united-2024-1712933813-134161.jpg?lm=4711",
+    "name": "Cameron Archer",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 429259,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mark-mckenzie-krc-genk-2023-1686162736-108824.jpg?lm=4711",
+    "name": "Mark McKenzie",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 448632,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yehvann-diouf-stade-reims-2023-1677226945-102545.jpg?lm=4711",
+    "name": "Yehvann Diouf",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 674612,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/youssouf-ndayishimiye-ogc-nice-2022-23-1679909391-104334.jpg?lm=4711",
+    "name": "Youssouf Ndayishimiye",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 1089202,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/moise-bombito-1719243411-140750.jpg?lm=4711",
+    "name": "Moïse Bombito",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 504215,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/giovanni-reyna-rc-strasbourg-2026-2027-1791273147-208548.jpg?lm=4711",
+    "name": "Giovanni Reyna",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 1186237,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1186237-1765440774.jpg?lm=4711",
+    "name": "Jacobo Ortega",
+    "value": 7000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 776798,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/abdallah-sima-rangers-fc-2023-24-1695392591-117491.jpg?lm=4711",
+    "name": "Abdallah Sima",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 819566,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/819566-1726634830.jpg?lm=4711",
+    "name": "Nidal Celik",
+    "value": 7000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 318523,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/romain-perraud-real-betis-2024-2025-1752393183-172236.jpg?lm=4711",
+    "name": "Romain Perraud",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 580657,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/osame-sahraoui-lille-2024-1726499037-148186.jpg?lm=4711",
+    "name": "Osame Sahraoui",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1158.png?lm=1789459236",
+    "id": 691958,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cadiou-noah-2024-2025-rodez-af-1751660681-171663.jpg?lm=4711",
+    "name": "Noah Cadiou",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1420.png?lm=1789459251",
+    "id": 807688,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/807688-1750956388.png?lm=4711",
+    "name": "Yassin Belkhdim",
+    "value": 7000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 624037,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/joris-chotard-mhsc-2024-2025-1049362173-1736767836-158418.jpg?lm=4711",
+    "name": "Joris Chotard",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 274862,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/moses-simon-fc-nantes-2023-2024-1033556678hjpg-1708707577-130197.jpg?lm=4711",
+    "name": "Moses Simon",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 239743,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/przemyslaw-frankowski-galatasaray-2024-2025-1750065648-170150.jpg?lm=4711",
+    "name": "Przemyslaw Frankowski",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 392767,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/danny-namaso-fc-porto-2025-1755445003-175040.jpg?lm=4711",
+    "name": "Danny Namaso",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 702441,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sinaly-diomande-aj-auxerre-2025-1755188670-174864.jpg?lm=4711",
+    "name": "Sinaly Diomandé",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 989574,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/989574-1720465616.png?lm=4711",
+    "name": "Santiago Hidalgo",
+    "value": 6000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 126664,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lucas-digne-france-coupe-du-monde-2026-1782739388-201152.jpg?lm=4711",
+    "name": "Lucas Digne",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/583.png?lm=1789459199",
+    "id": 1053208,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/quentin-ndjantou-2025-psg-1067116899-1759431329-179307.jpg?lm=4711",
+    "name": "Quentin Ndjantou",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 1011200,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/junior-mwanga-rc-strasbourg-2023-2024-1041869106h-1712320790-133529.jpg?lm=4711",
+    "name": "Junior Mwanga",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 344600,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/michael-cuisance-hertha-2024-1734015061-156545.jpg?lm=4711",
+    "name": "Michaël Cuisance",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 393565,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/michal-skoras-rc-lens-1790249595-207334.jpg?lm=4711",
+    "name": "Michal Skoras",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 394134,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/felix-bacher-estoril-2025-1743616291-164959.jpg?lm=4711",
+    "name": "Felix Bacher",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 819215,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/julien-duranville-fc-basel-2025-26-1773679274-192168.jpg?lm=4711",
+    "name": "Julien Duranville",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1095.png?lm=1789459229",
+    "id": 1009596,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/junior-diaz-troyes-2024-2025-1053566864-1733314346-155751.jpg?lm=4711",
+    "name": "Junior Diaz",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1158.png?lm=1789459236",
+    "id": 322305,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jean-victor-makengo-fc-lorient-2024-2025-1053317902-1733316232-155767.jpg?lm=4711",
+    "name": "Jean-Victor Makengo",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1420.png?lm=1789459251",
+    "id": 851220,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/851220-1759940291.jpg?lm=4711",
+    "name": "Amine Sbaï",
+    "value": 6000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 474662,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/magnetti-hugo-2023-2024-stade-brestois-1710182998-131487.jpg?lm=4711",
+    "name": "Hugo Magnetti",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 805908,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/bradley-locko-stade-brestois-2023-2024-1040042967hjpg-1708012091-129506.jpg?lm=4711",
+    "name": "Bradley Locko",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 1075588,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1075588-1693953767.png?lm=4711",
+    "name": "Pape Cabral",
+    "value": 5000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 372711,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/amine-harit-basaksehir-1766420134-185886.jpg?lm=4711",
+    "name": "Amine Harit",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 592979,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/himad-abdelli-sco-angers-2024-2025-1048888914h-1724840391-146454.jpg?lm=4711",
+    "name": "Himad Abdelli",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 1183719,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1183719-1770052012.jpg?lm=4711",
+    "name": "Keyliane Abdallah",
+    "value": 5000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 626913,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/boulaye-dia-lazio-2024-2025-1727336785-149333.jpg?lm=4711",
+    "name": "Boulaye Dia",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 342046,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/axel-tuanzebe-napoli-1641808067-78260.jpg?lm=4711",
+    "name": "Axel Tuanzebe",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 775981,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arthur-piedfort-2026-westerlo-1077515540-1781076623-199548.jpg?lm=4711",
+    "name": "Arthur Piedfort",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 283227,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rasmus-nicolaisen-toulose-2022-23-1683209226-106513.jpg?lm=4711",
+    "name": "Rasmus Nicolaisen",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 476836,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/aaron-donnum-2023-2024-toulouse-1040746791h-1722854677-144340.jpg?lm=4711",
+    "name": "Aron Dønnum",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 897423,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/david-odogu-ac-milan-2025-26-1761828035-181650.jpg?lm=4711",
+    "name": "David Odogu",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 1075583,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1075583-1770737252.jpg?lm=4711",
+    "name": "Seny Koumbassa",
+    "value": 5000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 344892,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gauthier-hein-fc-metz-2025-26-1783345763-201664.jpg?lm=4711",
+    "name": "Gauthier Hein",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 798404,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/seidu-alidu-2024-2025-stade-rennais-1732553875-155021.jpg?lm=4711",
+    "name": "Alidu Seidu",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 1297638,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1297638-1741654445.png?lm=4711",
+    "name": "Xavier Mandza",
+    "value": 5000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 863204,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/maxi-oyedele-legia-warschau-1727706134-149922.jpg?lm=4711",
+    "name": "Maxi Oyedele",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 910541,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/fabio-balde-hsv-2026-1784374212-202478.jpg?lm=4711",
+    "name": "Fábio Baldé",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 984529,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/del-blanco-mateo-union-2025-1758651223-178452.jpg?lm=4711",
+    "name": "Mateo Del Blanco",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 1082850,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/deivid-washington-chelsea-fc-2023-24-1702400727-123728.jpg?lm=4711",
+    "name": "Deivid Washington",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 405389,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/seko-ayumu-2025-japan-1753222899-172938.jpg?lm=4711",
+    "name": "Ayumu Seko",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 646478,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/elias-jelert-galatasaray-2024-2025-1727074711-148819.jpg?lm=4711",
+    "name": "Elias Jelert",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 184892,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/florian-thauvin-udinese-2024-2025-1050376147h-1726845437-148669.jpg?lm=4711",
+    "name": "Florian Thauvin",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 402008,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/leipzigs-amadou-haidara-2024-1711721455-133130.jpg?lm=4711",
+    "name": "Amadou Haidara",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/826.png?lm=1789459213",
+    "id": 585958,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/585958-1764076954.jpg?lm=4711",
+    "name": "Junior Kadile",
+    "value": 5000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 353404,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gaetan-perrin-krasnodar-2025-2026-1765173421-184447.jpg?lm=4711",
+    "name": "Gaëtan Perrin",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1158.png?lm=1789459236",
+    "id": 766412,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/le-bris-theo-2022-2023-lorient-1014022699h-1733315454-155759.jpg?lm=4711",
+    "name": "Théo Le Bris",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1158.png?lm=1789459236",
+    "id": 801886,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/isak-jensen-st-louis-city-sc-1689871402-112016.jpg?lm=4711",
+    "name": "Isak Jensen",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 922685,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/922685-1726485886.png?lm=4711",
+    "name": "Giovani Versini",
+    "value": 5000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 1078326,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1078326-1708556104.jpg?lm=4711",
+    "name": "Noah Edjouma",
+    "value": 5000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 1200419,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/djylian-nguessan-2025-saint-etienne-1788512234-205375.jpg?lm=4711",
+    "name": "Djylian N'Guessan",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 290862,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lopez-maxime-2024-2025-paris-fc-1727884502-150149.jpg?lm=4711",
+    "name": "Maxime Lopez",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 750878,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nkambadio-obed-2024-2025-paris-fc-1748712909-169039.jpg?lm=4711",
+    "name": "Obed Nkambadio",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 920470,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tochukwu-nnadi-nigeria-2023-1698165597-120291.jpg?lm=4711",
+    "name": "Tochukwu Nnadi",
+    "value": 4500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 453824,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/josh-maja-girondins-bordeaux-1582104992-31968.jpg?lm=4711",
+    "name": "Josh Maja",
+    "value": 4500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 770436,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/770436-1758624584.jpg?lm=4711",
+    "name": "Simon Ebonog",
+    "value": 4500000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 245537,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nabil-bentaleb-losc-lille-2025-1739774939-161280.jpg?lm=4711",
+    "name": "Nabil Bentaleb",
+    "value": 4500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 377393,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pierre-lees-melou-stade-brest-2024-2025-1052661400-1-1756386705-176030.jpg?lm=4711",
+    "name": "Pierre Lees-Melou",
+    "value": 4500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/162.png?lm=1789459175",
+    "id": 175722,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/eric-dier-fc-bayern-2024-2025-1055062929-1747321039-167954.jpg?lm=4711",
+    "name": "Eric Dier",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 217115,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/neal-maupay-brentford-2023-imago1036332604hjpg-1706626453-127888.jpg?lm=4711",
+    "name": "Neal Maupay",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 215977,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/adrien-thomasson-rc-lens-2024-2025-1049120046h-1726059421-147756.jpg?lm=4711",
+    "name": "Adrien Thomasson",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 324811,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arnaud-nordin-mainz-05-2025-1739273785-160764.jpg?lm=4711",
+    "name": "Arnaud Nordin",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/273.png?lm=1789459183",
+    "id": 475208,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/reynolds-bryan-westerlo-1687459451-109893.jpg?lm=4711",
+    "name": "Bryan Reynolds",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 539795,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/bryan-okoh-salzburg-2021-2022-1664964596-93683.jpg?lm=4711",
+    "name": "Bryan Okoh",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 555076,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/romain-faivre-bournemouth-2025-1757566467-177279.jpg?lm=4711",
+    "name": "Romain Faivre",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/290.png?lm=1789459183",
+    "id": 917778,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/917778-1676913774.jpg?lm=4711",
+    "name": "Rémy Labeau Lascary",
+    "value": 4000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 1045375,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/niko-sigur-kroatien-1724233173-145791.jpg?lm=4711",
+    "name": "Niko Sigur",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 175639,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jonathan-clauss-ogc-nice-2024-2025-1050138869h-1727961503-150228.jpg?lm=4711",
+    "name": "Jonathan Clauss",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 688707,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/abdul-samed-salis-rc-lens-2023-2024-1040663782hjpg-1710773953-131999.jpg?lm=4711",
+    "name": "Salis Abdul Samed",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 557612,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sekou-mara-aj-auxerre-2025-2026-1067374169-1761834923-181665.jpg?lm=4711",
+    "name": "Sékou Mara",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/667.png?lm=1789459205",
+    "id": 926135,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/omari-kellyman-chelsea-2024-2025-1787649908-204493.jpg?lm=4711",
+    "name": "Omari Kellyman",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 893675,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/amir-richardson-reims-2023-2024-1044109077h-1-1736246962-157954.jpg?lm=4711",
+    "name": "Amir Richardson",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/738.png?lm=1789459212",
+    "id": 1228317,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1228317-1770734950.jpg?lm=4711",
+    "name": "Stephan Zagadou",
+    "value": 4000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1041.png?lm=1789459228",
+    "id": 131225,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tagliafico-nicolas-argentina-2024-1732894304-155406.jpg?lm=4711",
+    "name": "Nicolás Tagliafico",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1082.png?lm=1789459229",
+    "id": 1184007,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/soriba-diaoune-losc-2026-2027-1084850751h-1792660982-209933.jpg?lm=4711",
+    "name": "Soriba Diaoune",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1095.png?lm=1789459229",
+    "id": 770895,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ismael-boura-rc-lens-1682339631-106009.jpg?lm=4711",
+    "name": "Ismaël Boura",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1095.png?lm=1789459229",
+    "id": 933147,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/diop-mouhamed-2022-2023-sheriff-tiraspol-1708380731-129777.jpg?lm=4711",
+    "name": "Mouhamed Diop",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1420.png?lm=1789459251",
+    "id": 829874,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/829874-1750955865.png?lm=4711",
+    "name": "Lilian Raolisoa",
+    "value": 4000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1420.png?lm=1789459251",
+    "id": 904662,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/904662-1727722197.jpg?lm=4711",
+    "name": "Louis Mouton",
+    "value": 4000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/3911.png?lm=1789459367",
+    "id": 250779,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/brendan-chardonnet-stade-brestois-29-2021-22-1647268792-82002.jpg?lm=4711",
+    "name": "Brendan Chardonnet",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 324690,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jonathan-ikone-como-2025-2425-1739276584-160817.jpg?lm=4711",
+    "name": "Jonathan Ikoné",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 668167,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/668167-1780326022.jpg?lm=4711",
+    "name": "Samir Chergui",
+    "value": 4000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10004.png?lm=1789459692",
+    "id": 973949,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/973949-1741880935.jpg?lm=4711",
+    "name": "Adama Camara",
+    "value": 4000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/244.png?lm=1789459182",
+    "id": 599663,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/moumbagna-faris-2023-2024-olympique-de-marseille-1713476551-134573.jpg?lm=4711",
+    "name": "Faris Moumbagna",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 464598,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/casper-tengstedt-hellas-verona-2024-2025-1725467354-147226.jpg?lm=4711",
+    "name": "Casper Tengstedt",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 1270796,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1270796-1778410254.jpg?lm=4711",
+    "name": "Christ Tapé",
+    "value": 3500000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/415.png?lm=1789459190",
+    "id": 1368526,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1368526-1771642129.jpg?lm=4711",
+    "name": "Sion Oppong",
+    "value": 3500000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/417.png?lm=1789459190",
+    "id": 629588,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nathan-ngoumou-gladbach-2025-1744039192-165280.jpg?lm=4711",
+    "name": "Nathan Ngoumou",
+    "value": 3500000,
+    "fallback": false
+  }
+]

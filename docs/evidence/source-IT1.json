@@ -1,0 +1,2002 @@
+[
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 406625,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lauatro-martinez-inter-26-27-1789117632-205961.jpg?lm=4711",
+    "name": "Lautaro Martínez",
+    "value": 85000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 948294,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nico-paz-como-26-27-1790063533-207032.jpg?lm=4711",
+    "name": "Nico Paz",
+    "value": 80000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 845654,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kenan-yildiz-juventus-26-27-1790063716-207033.jpg?lm=4711",
+    "name": "Kenan Yıldız",
+    "value": 75000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 315853,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alessandro-bastoni-inter-26-27-1789456947-206355.jpg?lm=4711",
+    "name": "Alessandro Bastoni",
+    "value": 65000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 624690,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/manu-kone-roma-26-27-1789427984-206333.jpg?lm=4711",
+    "name": "Manu Koné",
+    "value": 60000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 610442,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rasmus-hojlund-napoli-26-27-1789428601-206339.jpg?lm=4711",
+    "name": "Rasmus Højlund",
+    "value": 60000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 326029,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/donyell-malen-roma-26-27-1789427834-206331.jpg?lm=4711",
+    "name": "Donyell Malen",
+    "value": 55000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 580451,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/martin-baturina-como-26-27-1789426486-206319.jpg?lm=4711",
+    "name": "Martin Baturina",
+    "value": 55000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 550550,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/goncalo-ramos-26-27-milan-1787524387-204395.jpg?lm=4711",
+    "name": "Gonçalo Ramos",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 198116,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/federico-dimarco-inter-26-27-1789456741-206353.jpg?lm=4711",
+    "name": "Federico Dimarco",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 255942,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nicolo-barella-inter-26-27-1789456239-206348.jpg?lm=4711",
+    "name": "Nicolò Barella",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 318528,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/marcus-thuram-inter-26-27-1789456450-206351.jpg?lm=4711",
+    "name": "Marcus Thuram",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 441986,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yann-bisseck-deutschland-2025-1789554703-206455.jpg?lm=4711",
+    "name": "Yann Bisseck",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 930781,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pio-esposito-inter-26-27-1789456854-206354.jpg?lm=4711",
+    "name": "Pio Esposito",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 455661,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nick-woltemade-juventus-turin-2026-1792694489-209982.jpg?lm=4711",
+    "name": "Nick Woltemade",
+    "value": 50000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 655006,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/diego-moreira-milan-26-27-1789274555-206071.jpg?lm=4711",
+    "name": "Diego Moreira",
+    "value": 45000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 668207,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/petar-sucic-inter-26-27-1789457098-206357.jpg?lm=4711",
+    "name": "Petar Sučić",
+    "value": 45000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 1057316,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mastantuono-franco-2026-27-fiorentina-1788180826-204948.jpg?lm=4711",
+    "name": "Franco Mastantuono",
+    "value": 45000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 948278,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jacobo-ramon-como-2026-1792608038-209895.jpg?lm=4711",
+    "name": "Jacobo Ramón",
+    "value": 45000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 574671,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/strahinja-pavlovic-milan-26-27-1789425797-206313.jpg?lm=4711",
+    "name": "Strahinja Pavlović",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 607854,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ederson-atalanta-26-27-1790064433-207034.jpg?lm=4711",
+    "name": "Éderson",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 315969,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/scott-mctominay-napoli-26-27-1789428210-206335.jpg?lm=4711",
+    "name": "Scott McTominay",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 964580,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/wesley-roma-26-27-1789428048-206334.jpg?lm=4711",
+    "name": "Wesley",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 571604,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/giorgio-scalvini-atalanta-26-27-1790064744-207035.jpg?lm=4711",
+    "name": "Giorgio Scalvini",
+    "value": 38000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 957653,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rodrigo-mora-roma-2026-1787656725-204504.jpg?lm=4711",
+    "name": "Rodrigo Mora",
+    "value": 38000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 315779,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/christian-pulisic-milan-2026-27-1789628498-206532.jpg?lm=4711",
+    "name": "Christian Pulisic",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 338670,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mile-svilar-roma-26-27-1789427683-206330.jpg?lm=4711",
+    "name": "Mile Svilar",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 371149,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/evan-ndicka-roma-26-27-1789427504-206328.jpg?lm=4711",
+    "name": "Evan Ndicka",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 668951,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/matias-soule-roma-26-27-1789427573-206329.jpg?lm=4711",
+    "name": "Matías Soulé",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 435772,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/charles-de-ketelaere-atalanta-26-27-1790065141-207037.jpg?lm=4711",
+    "name": "Charles De Ketelaere",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 433188,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/curtis-jones-inter-26-27-1788712251-205513.jpg?lm=4711",
+    "name": "Curtis Jones",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 483348,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/djed-spence-2026-england-1076237611-1779980166-198159.jpg?lm=4711",
+    "name": "Djed Spence",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 827734,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ange-yoan-bonny-inter-26-27-1790064992-207036.jpg?lm=4711",
+    "name": "Ange-Yoan Bonny",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 346314,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/trevoh-chalobah-como-26-27-1789427178-206325.jpg?lm=4711",
+    "name": "Trevoh Chalobah",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 516716,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/bremer-juventus-26-27-1789416557-206271.jpg?lm=4711",
+    "name": "Bremer",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 463618,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/khephren-thuram-juventus-26-27-1789983269-206920.jpg?lm=4711",
+    "name": "Khéphren Thuram",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 668547,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/maximo-perrone-como-26-27-1789426734-206321.jpg?lm=4711",
+    "name": "Máximo Perrone",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 1061282,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/assane-diao-como-26-27-1789427080-206324.jpg?lm=4711",
+    "name": "Assane Diao",
+    "value": 35000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 672381,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jonathan-rowe-atalanta-26-27-1789415938-206265.jpg?lm=4711",
+    "name": "Jonathan Rowe",
+    "value": 33000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 849520,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/castro-santiago-2026-27-roma-1788181253-204950.jpg?lm=4711",
+    "name": "Santiago Castro",
+    "value": 32000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 780136,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/-aleksandar-stankovic-inter-2026-2027-1787223185-204181.jpg?lm=4711",
+    "name": "Aleksandar Stanković",
+    "value": 32000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 364135,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/moise-kean-como-2026-2027-1789025344-205861.jpg?lm=4711",
+    "name": "Moise Kean",
+    "value": 32000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 929994,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kerim-alajbegovic-juventus-26-27-1789417537-206283.jpg?lm=4711",
+    "name": "Kerim Alajbegovic",
+    "value": 32000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 585949,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pierre-kalulu-juventus-26-27-1790065451-207041.jpg?lm=4711",
+    "name": "Pierre Kalulu",
+    "value": 32000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 618341,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mario-gila-milan-26-27-1789418873-206301.jpg?lm=4711",
+    "name": "Mario Gila",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 741238,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/omari-hutchinson-milan-26-27-1789418733-206297.jpg?lm=4711",
+    "name": "Omari Hutchinson",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 459763,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/marco-carnesecchi-atalanta-26-27-1789415562-206262.jpg?lm=4711",
+    "name": "Marco Carnesecchi",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 813137,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/niccolo-pisilli-roma-26-27-1789427916-206332.jpg?lm=4711",
+    "name": "Niccolò Pisilli",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 434433,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nikola-krstovic-atalanta-2025-2526-1757929715-177769.jpg?lm=4711",
+    "name": "Nikola Krstović",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 711976,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andy-diouf-france-2026-1790757720-207978.jpg?lm=4711",
+    "name": "Andy Diouf",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 568693,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pape-sarr-juventus-26-27-1789417170-206278.jpg?lm=4711",
+    "name": "Pape Matar Sarr",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 487969,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/randal-kolo-muani-juventus-26-27-1787522565-204394.jpg?lm=4711",
+    "name": "Randal Kolo Muani",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 487474,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/francisco-conceicao-juventus-26-27-1789416209-206268.jpg?lm=4711",
+    "name": "Francisco Conceição",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 332697,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/weston-mckennie-juventus-26-27-1789416719-206272.jpg?lm=4711",
+    "name": "Weston McKennie",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 495667,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lucas-da-cunha-france-belgique-1790676556-207840.jpg?lm=4711",
+    "name": "Lucas Da Cunha",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 1190411,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jesus-rodriguez-como-1907-1756461866-176110.jpg?lm=4711",
+    "name": "Jesús Rodríguez",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 830365,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alisson-santos-napoli-26-27-1789428324-206336.jpg?lm=4711",
+    "name": "Alisson Santos",
+    "value": 28000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 1279526,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/christ-inao-oulai-fiorentina-26-27-1788957298-205810.jpg?lm=4711",
+    "name": "Christ Inao Oulaï",
+    "value": 28000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 386446,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alessandro-buongiorno-napoli-2025-2026-1771079519-189657.jpg?lm=4711",
+    "name": "Alessandro Buongiorno",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 490384,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/de-winter-koni-belgium-2023-2024-1710504176-131836.jpg?lm=4711",
+    "name": "Koni De Winter",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 315867,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gianluca-scamacca-atalanta-2025-2526-1757925228-177733.jpg?lm=4711",
+    "name": "Gianluca Scamacca",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 265088,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/manuel-locatelli-juventus-26-27-1789416391-206270.jpg?lm=4711",
+    "name": "Manuel Locatelli",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 921655,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ismael-kon-sassuolo-2025-25-26-1759135501-178902.jpg?lm=4711",
+    "name": "Ismaël Koné",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 523318,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tasos-douvikas-como-26-27-1789426276-206317.jpg?lm=4711",
+    "name": "Anastasios Douvikas",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 855308,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arthur-atta-fiorentina-2026-2027-1785407099-203353.jpg?lm=4711",
+    "name": "Arthur Atta",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 426620,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/-pedro-goncalves-fiorentina-2026-2027-1789632429-206541.jpg?lm=4711",
+    "name": "Pedro Gonçalves",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 470394,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kenneth-taylor-lazio-2025-2026-1768258099-187037.jpg?lm=4711",
+    "name": "Kenneth Taylor",
+    "value": 25000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 585982,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/carlos-augusto-inter-2025-2526-1757925753-177742.jpg?lm=4711",
+    "name": "Carlos Augusto",
+    "value": 23000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 480116,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lloyd-kelly-juventus-2025-2425-1739274744-160791.jpg?lm=4711",
+    "name": "Lloyd Kelly",
+    "value": 23000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 525704,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nicolo-rovella-lazio-2025-2526-1757924302-177723.jpg?lm=4711",
+    "name": "Nicolò Rovella",
+    "value": 23000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 608172,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ardon-jashari-milan-2025-2526-1757924228-177722.jpg?lm=4711",
+    "name": "Ardon Jashari",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 887638,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/davide-bartesaghi-milan-2025-2026-1764868660-184296.jpg?lm=4711",
+    "name": "Davide Bartesaghi",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 503075,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/isak-hien-atalanta-2025-2526-1757923705-177709.jpg?lm=4711",
+    "name": "Isak Hien",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 405885,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/giacomo-raspadori-atalanta-2025-2026-1769961190-188513.jpg?lm=4711",
+    "name": "Giacomo Raspadori",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 486031,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gonzalez-nicolas-2026-27-juventus-1788182568-204954.jpg?lm=4711",
+    "name": "Nico González",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 413565,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jhon-lucumi-juventus-1788119901-204874.jpg?lm=4711",
+    "name": "Jhon Lucumí",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 467992,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/samuele-ricci-como-26-27-1789426345-206318.jpg?lm=4711",
+    "name": "Samuele Ricci",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 856530,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pellegrino-mateo-2026-27-fiorentina-1788183580-204961.jpg?lm=4711",
+    "name": "Mateo Pellegrino",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 741257,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alex-jimenez-afc-bournemouth-2026-1770892624-189507.jpg?lm=4711",
+    "name": "Álex Jiménez",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 394300,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/davide-frattesi-lazio-26-27-1789398575-206223.jpg?lm=4711",
+    "name": "Davide Frattesi",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 182906,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mike-maignan-milan-26-27-1789337634-206099.jpg?lm=4711",
+    "name": "Mike Maignan",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 401922,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/samuel-chukwueze-milan-26-27-1789418536-206293.jpg?lm=4711",
+    "name": "Samuel Chukwueze",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 964087,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alphadjo-cisse-milan-2026-2027-1787550618-204401.jpg?lm=4711",
+    "name": "Alphadjo Cisse",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 708635,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lorenzo-bernasconi-atalanta-2025-2026-1771080228-189662.jpg?lm=4711",
+    "name": "Lorenzo Bernasconi",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 339332,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/noa-lang-victor-osimhen-galatasaray-2025-2026-1773908325-192454.jpg?lm=4711",
+    "name": "Noa Lang",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 550108,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nicola-zalewski-atalanta-2025-2526-1757929343-177760.jpg?lm=4711",
+    "name": "Nicola Zalewski",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 669380,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kostantinos-koulierakis-roma-26-27-1789427309-206326.jpg?lm=4711",
+    "name": "Konstantinos Koulierakis",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 423744,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/billy-gilmour-napoli-2025-2526-1758639394-178439.jpg?lm=4711",
+    "name": "Billy Gilmour",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 691316,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/luis-henrique-inter-de-milao-2025-2026-1758049162-177887.jpg?lm=4711",
+    "name": "Luis Henrique",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/130.png?lm=1789459175",
+    "id": 707844,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/keita-mandela-2025-parma-1750152953-170275.jpg?lm=4711",
+    "name": "Mandela Keita",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 651005,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cher-ndour-fiorentina-2025-2425-1739279932-160822.jpg?lm=4711",
+    "name": "Cher Ndour",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 747720,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jayden-addai-como-2025-2026-1764340318-183787.jpg?lm=4711",
+    "name": "Jayden Addai",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 463665,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/oumar-solet-udinese-2025-2425-1739276286-160808.jpg?lm=4711",
+    "name": "Oumar Solet",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 703245,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/antonio-vergara-napoli-26-27-1789428427-206337.jpg?lm=4711",
+    "name": "Antonio Vergara",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 644408,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/josip-sutalo-lazio-26-27-1789398780-206225.jpg?lm=4711",
+    "name": "Oliver Provstgaard",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 572265,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lorenzo-lucca-napoli-2025-1767626620-186496.jpg?lm=4711",
+    "name": "Lorenzo Lucca",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 579930,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/armand-lauriente-sassuolo-2025-2026-1072932009-1773669753-192124.jpg?lm=4711",
+    "name": "Armand Laurienté",
+    "value": 19000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 182913,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/adrien-rabiot-milan-26-27-1789425523-206310.jpg?lm=4711",
+    "name": "Adrien Rabiot",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 381950,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alexis-saelemaekers-2025-belgium-1069624532-1780057029-198296.jpg?lm=4711",
+    "name": "Alexis Saelemaekers",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 503991,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yunus-musah-milan-26-27-1789418449-206291.jpg?lm=4711",
+    "name": "Yunus Musah",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 698259,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/thomas-kristensen-atalanta-26-27-1789415709-206263.jpg?lm=4711",
+    "name": "Thomas Kristensen",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 575998,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/leonardo-balerdi-olympique-marseille-2025-2026-1066816146-1788174280-204935.jpg?lm=4711",
+    "name": "Leonardo Balerdi",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 701819,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/daniele-ghilardi-roma-2025-2026-1773915435-192473.jpg?lm=4711",
+    "name": "Daniele Ghilardi",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 934878,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jeff-ekhator-juventus-26-27-1789416822-206274.jpg?lm=4711",
+    "name": "Jeff Ekhator",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 433984,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sam-beukema-napoli-2025-25-26-1761294067-181154.jpg?lm=4711",
+    "name": "Sam Beukema",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 447661,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/douglas-luiz-juventus-26-27-1789126972-205977.jpg?lm=4711",
+    "name": "Douglas Luiz",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 595809,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/beto-everton-2025-2026-1769173502-187889.jpg?lm=4711",
+    "name": "Beto",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/416.png?lm=1789459190",
+    "id": 746712,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pietro-comuzzo-torino-26-27-1789390865-206167.jpg?lm=4711",
+    "name": "Pietro Comuzzo",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 469822,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/david-neres-napoli-2025-2526-1757924567-177728.jpg?lm=4711",
+    "name": "David Neres",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 323167,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/matteo-gabbia-milan-2025-2526-1766141428-185662.jpg?lm=4711",
+    "name": "Matteo Gabbia",
+    "value": 17000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 746695,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kamaldeen-sulemana-2026-ghana-1075080468-1780386661-198730.jpg?lm=4711",
+    "name": "Kamaldeen Sulemana",
+    "value": 17000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 284730,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/manuel-akanji-inter-26-27-1789457224-206358.jpg?lm=4711",
+    "name": "Manuel Akanji",
+    "value": 17000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 627228,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yan-couto-como-26-27-1789426115-206316.jpg?lm=4711",
+    "name": "Yan Couto",
+    "value": 17000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 432092,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/roberto-piccoli-bologna-26-27-1789400038-206232.jpg?lm=4711",
+    "name": "Roberto Piccoli",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 528833,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/-lazar-samardzic-atalanta-2025-2026-1768163614-186933.jpg?lm=4711",
+    "name": "Lazar Samardžić",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 126414,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hakan-calhanoglu-inter-26-27-1789457019-206356.jpg?lm=4711",
+    "name": "Hakan Çalhanoğlu",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 627626,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/wilfried-gnonto-fiorentina-26-27-1788957859-205816.jpg?lm=4711",
+    "name": "Wilfried Gnonto",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 568559,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/radu-dragusin-fiorentina-26-27-1788957111-205807.jpg?lm=4711",
+    "name": "Radu Drăgușin",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 432090,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nicolo-fagioli-fiorentina-2025-2425-1739274706-160790.jpg?lm=4711",
+    "name": "Nicolò Fagioli",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 401529,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dodo-fiorentina-2024-2025-1743517972-164864.jpg?lm=4711",
+    "name": "Dodô",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 662261,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/-rafa-marin-napoli-2024-2425-1730111141-152633.jpg?lm=4711",
+    "name": "Rafa Marín",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 392085,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nicolo-zaniolo-udinese-2025-2026-1781532278-199963.jpg?lm=4711",
+    "name": "Nicolò Zaniolo",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1005.png?lm=1789459227",
+    "id": 1112449,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tiago-gabriel-lecce-2025-2026-1762504971-182261.jpg?lm=4711",
+    "name": "Tiago Gabriel",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 341227,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/juan-miranda-bologna-26-27-1789399758-206230.jpg?lm=4711",
+    "name": "Juan Miranda",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 343537,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/artem-dovbyk-bologna-26-27-1789400536-206238.jpg?lm=4711",
+    "name": "Artem Dovbyk",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 538918,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sebastiano-esposito-sassuolo-26-27-1789391505-206175.jpg?lm=4711",
+    "name": "Sebastiano Esposito",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 368482,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/riccardo-orsolini-bologna-26-27-1789400620-206239.jpg?lm=4711",
+    "name": "Riccardo Orsolini",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 368891,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arthur-theate-eintracht-frankfurt-2025-26-1763981073-183457.jpg?lm=4711",
+    "name": "Arthur Theate",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 644771,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/odilon-kossounou-2026-ivory-coast-1075307459-1780309829-198513.jpg?lm=4711",
+    "name": "Odilon Kossounou",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 357992,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/raoul-bellanova-atalanta-2024-2425-1725532818-147287.jpg?lm=4711",
+    "name": "Raoul Bellanova",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 464469,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/torbjorn-heggem-bologna-26-27-1789400135-206233.jpg?lm=4711",
+    "name": "Torbjørn Heggem",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/607.png?lm=1789459204",
+    "id": 607034,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/akor-adams-venezia-26-27-1788951315-205784.jpg?lm=4711",
+    "name": "Akor Adams",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 459658,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andrea-cambiaso-juventus-2025-2526-1757922899-177688.jpg?lm=4711",
+    "name": "Andrea Cambiaso",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 403151,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/robert-sanchez-spain-1668159479-96190.jpg?lm=4711",
+    "name": "Robert Sánchez",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 934527,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alieu-njie-torino-2024-2425-1730122317-152688.jpg?lm=4711",
+    "name": "Alieu Njie",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 944570,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/vasilije-adzic-sassuolo-2026-26-27-1788739038-205530.jpg?lm=4711",
+    "name": "Vasilije Adžić",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/416.png?lm=1789459190",
+    "id": 622380,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cesare-casadei-torino-2025-2526-1762155487-181892.jpg?lm=4711",
+    "name": "Cesare Casadei",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 1170286,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/darryl-bakola-sassuolo-26-27-1789391407-206174.jpg?lm=4711",
+    "name": "Darryl Bakola",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/8970.png?lm=1789459637",
+    "id": 346853,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/romano-schmid-frosinone-26-27-1788950583-205777.jpg?lm=4711",
+    "name": "Romano Schmid",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1390.png?lm=1789459250",
+    "id": 911224,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alessandro-romano-cagliari-2026-2027-1789048257-205910.jpg?lm=4711",
+    "name": "Alessandro Romano",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 462823,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gustav-isaksen-lazio-2024-2025-1744960453-166130.jpg?lm=4711",
+    "name": "Gustav Isaksen",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 315865,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andrea-pinamonti-sassuolo-2025-2526-1766138265-185647.jpg?lm=4711",
+    "name": "Andrea Pinamonti",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 376514,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/olivera-mathias-2026-uruguay-1780345135-198685.jpg?lm=4711",
+    "name": "Mathías Olivera",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 1058368,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/francesco-camarda-milan-26-27-1789418625-206296.jpg?lm=4711",
+    "name": "Francesco Camarda",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 354361,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/frank-anguissa-napoli-2025-2526-1757925700-177741.jpg?lm=4711",
+    "name": "Frank Anguissa",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 256448,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gianluca-mancini-roma-2025-2526-1766138389-185650.jpg?lm=4711",
+    "name": "Gianluca Mancini",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 424042,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/molina-nahuel-2026-27-roma-1788183739-204964.jpg?lm=4711",
+    "name": "Nahuel Molina",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 257474,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/vanja-milinkovic-savic-2025-2026-1759924375-179796.jpg?lm=4711",
+    "name": "Vanja Milinković-Savić",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 463603,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/badiashile-benoit-2022-2023-chelsea-1022320529h1jpg-1691154771-113326.jpg?lm=4711",
+    "name": "Benoît Badiashile",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 503871,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/morten-frendrup-genoa-2025-1749378772-169689.jpg?lm=4711",
+    "name": "Morten Frendrup",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/130.png?lm=1789459175",
+    "id": 466802,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/adrian-bernabe-parma-26-27-1789388903-206158.jpg?lm=4711",
+    "name": "Adrián Bernabé",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 251075,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/zeki-celik-juventus-26-27-1789417269-206279.jpg?lm=4711",
+    "name": "Zeki Çelik",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1390.png?lm=1789459250",
+    "id": 1228231,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rodriguez-juan-2026-cagliari-1780331186-198634.jpg?lm=4711",
+    "name": "Juan Rodríguez",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 546926,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jay-idzes-sassuolo-26-27-1789391191-206171.jpg?lm=4711",
+    "name": "Jay Idzes",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 428563,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lewis-ferguson-bologna-2025-2526-1757924128-177718.jpg?lm=4711",
+    "name": "Lewis Ferguson",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 459151,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nicolo-cambiaghi-bologna-2025-2526-1766141164-185659.jpg?lm=4711",
+    "name": "Nicolò Cambiaghi",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 360518,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/teun-koopmeiners-juventus-2025-2526-1757922509-177681.jpg?lm=4711",
+    "name": "Teun Koopmeiners",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 818448,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alessandro-marcandalli-genoa-2025-2026-1780005899-198199.jpg?lm=4711",
+    "name": "Alessandro Marcandalli",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 879217,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kaiki-como-2026-2027-1785417432-203364.jpg?lm=4711",
+    "name": "Kaiki",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 532937,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/johan-vasquez-mexico-1718220650-139532.jpeg?lm=4711",
+    "name": "Johan Vásquez",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 387047,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/danilho-doekhi-lazio-26-27-1789399400-206227.jpg?lm=4711",
+    "name": "Danilho Doekhi",
+    "value": 13000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 361068,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jurgen-ekkelenkamp-udinese-2024-2025-1725284625-147008.jpg?lm=4711",
+    "name": "Jurgen Ekkelenkamp",
+    "value": 13000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 400489,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/eljif-elmas-atalanta-26-27-1789415817-206264.jpg?lm=4711",
+    "name": "Eljif Elmas",
+    "value": 13000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/130.png?lm=1789459175",
+    "id": 649016,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/el-bilal-toure-besiktas-2025-2026-3-1776067310-194527.jpg?lm=4711",
+    "name": "El Bilal Touré",
+    "value": 13000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 652054,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/martin-vitik-bologna-2025-2526-1757930393-177778.jpg?lm=4711",
+    "name": "Martin Vitík",
+    "value": 13000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 367284,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/leo-ostigard-norway-2024-1053907350-1780048808-198259.jpg?lm=4711",
+    "name": "Leo Østigård",
+    "value": 13000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 395237,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/maxence-caqueret-como-2024-2025-1738615743-160112.jpg?lm=4711",
+    "name": "Maxence Caqueret",
+    "value": 13000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 305947,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/albert-gudmundsson-fiorentina-2025-2526-1757925549-177738.jpg?lm=4711",
+    "name": "Albert Gudmundsson",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 357156,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/diogo-leite-1-fc-union-berlin-2024-1732195390-154703.jpg?lm=4711",
+    "name": "Diogo Leite",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 371001,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/josip-sutalo-ajax-2024-25-1748248923-168567.jpg?lm=4711",
+    "name": "Josip Sutalo",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 286047,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/guglielmo-vicario-juventus-26-27-1789417418-206281.jpg?lm=4711",
+    "name": "Guglielmo Vicario",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 349599,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/pervis-estupinan-ac-milan-2026-2027-1789395634-206199.jpg?lm=4711",
+    "name": "Pervis Estupiñán",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1390.png?lm=1789459250",
+    "id": 1371793,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/paul-mendy-cagliari-2025-2026-1780006067-198200.jpg?lm=4711",
+    "name": "Paul Mendy",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 345590,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jens-odgaard-bologna-26-27-1789399647-206229.jpg?lm=4711",
+    "name": "Jens Odgaard",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 535955,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nuno-tavares-lazio-2025-2526-1757924997-177730.jpg?lm=4711",
+    "name": "Nuno Tavares",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 1186245,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/victor-valdepenas-fiorentina-26-27-1788957750-205815.jpg?lm=4711",
+    "name": "Víctor Valdepeñas",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/8970.png?lm=1789459637",
+    "id": 888738,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/fares-ghedjemis-frosinone-26-27-1788950809-205779.jpg?lm=4711",
+    "name": "Farès Ghedjemis",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 950393,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/viery-gremio-2026-1773183422-191524.jpg?lm=4711",
+    "name": "Viery",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 346551,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kamil-grabara-vfl-wolfsburg-2024-25-1724074894-145568.jpg?lm=4711",
+    "name": "Kamil Grabara",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1390.png?lm=1789459250",
+    "id": 421873,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/elia-caprile-cagliari-2025-2026-1766570217-186058.jpg?lm=4711",
+    "name": "Elia Caprile",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 358008,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gianluca-gaetano-atalanta-2026-2027-1785417298-203363.jpg?lm=4711",
+    "name": "Gianluca Gaetano",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/800.png?lm=1789459213",
+    "id": 294808,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/franck-kessie-atalanta-26-27-1789400768-206241.jpg?lm=4711",
+    "name": "Franck Kessié",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 186590,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/john-stones-inter-26-27-1789456676-206352.jpg?lm=4711",
+    "name": "John Stones",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 353366,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/benjamin-pavard-inter-milan-2026-2027-1082860734-1790589642-207653.jpg?lm=4711",
+    "name": "Benjamin Pavard",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2919.png?lm=1789459326",
+    "id": 1046867,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jan-ziolkowski-monza-26-27-1788949794-205773.jpg?lm=4711",
+    "name": "Jan Ziolkowski",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 1005165,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/giovane-napoli-2025-2026-1771079177-189653.jpg?lm=4711",
+    "name": "Giovane",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 709957,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alex-valle-como-26-27-1789426034-206315.jpg?lm=4711",
+    "name": "Álex Valle",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/416.png?lm=1789459190",
+    "id": 1188619,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alessio-cacciamani-juve-stabia-2025-2026-1780491454-198968.jpg?lm=4711",
+    "name": "Alessio Cacciamani",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 303254,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/fikayo-tomori-milan-2025-2526-1757925442-177736.jpg?lm=4711",
+    "name": "Fikayo Tomori",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 481675,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/christos-mandas-lazio-26-27-1789398852-206226.jpg?lm=4711",
+    "name": "Christos Mandas",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/8970.png?lm=1789459637",
+    "id": 510103,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tomas-bobcek-lechia-gdansk-1755281126-174943.jpg?lm=4711",
+    "name": "Tomas Bobcek",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/130.png?lm=1789459175",
+    "id": 1159864,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mariano-troilo-parma-calcio-2025-26-1771830420-190231.jpg?lm=4711",
+    "name": "Mariano Troilo",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 1058363,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/christian-comotto-milan-26-27-1789425686-206312.jpg?lm=4711",
+    "name": "Christian Comotto",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 564785,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kristian-thorstvedt-2022-1657618065-88276.jpg?lm=4711",
+    "name": "Kristian Thorstvedt",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/130.png?lm=1789459175",
+    "id": 932187,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sascha-britschgi-parma-2026-1770995225-189619.jpg?lm=4711",
+    "name": "Sascha Britschgi",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 340353,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/maduka-okoye-udinese-calcio-2025-26-1781697491-200160.jpg?lm=4711",
+    "name": "Maduka Okoye",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 257732,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/amir-rrahmani-napoli-26-27-1792696413-209983.jpg?lm=4711",
+    "name": "Amir Rrahmani",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 412660,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/keinan-davies-udinese-2025-2026-1774256695-192759.jpg?lm=4711",
+    "name": "Keinan Davis",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 181136,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/piotr-zielinski-inter-2025-2026-1770739543-189371.jpg?lm=4711",
+    "name": "Piotr Zieliński",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 496745,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/emil-holm-bologna-2026-2526-1769778727-188429.jpg?lm=4711",
+    "name": "Emil Holm",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 924857,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lennon-miller-motherwell-1716978427-137855.jpg?lm=4711",
+    "name": "Lennon Miller",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 1231993,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/1231993-1770014850.jpg?lm=4711",
+    "name": "Adrian Lahdo",
+    "value": 10000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/130.png?lm=1789459175",
+    "id": 633668,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/giovanni-fabbian-fiorentina-2026-2526-1778163471-196409.jpg?lm=4711",
+    "name": "Giovanni Fabbian",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 988964,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mattia-liberali-como-26-27-1789426831-206322.jpg?lm=4711",
+    "name": "Mattia Liberali",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 391065,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hamed-junior-traore-auxerre-2024-2025-1732548526-155006.jpg?lm=4711",
+    "name": "Hamed Traoré",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/416.png?lm=1789459190",
+    "id": 293200,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nikola-vlasic-torino-26-27-1789390702-206165.jpg?lm=4711",
+    "name": "Nikola Vlašić",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/416.png?lm=1789459190",
+    "id": 352041,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lucas-perri-lyon-2023-2024-1739786771-161303.jpg?lm=4711",
+    "name": "Lucas Perri",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/46.png?lm=1789459168",
+    "id": 388516,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/josep-martinez-inter-26-27-1789456116-206347.jpg?lm=4711",
+    "name": "Josep Martínez",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 496857,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/edon-zhegrova-juventus-2025-2526-1758639237-178437.jpg?lm=4711",
+    "name": "Edon Zhegrova",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 509022,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/federico-gatti-juventus-2026-1788375078-205236.jpg?lm=4711",
+    "name": "Federico Gatti",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 487843,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lorenzo-colombo-genoa-2025-2026-1777962343-196221.jpg?lm=4711",
+    "name": "Lorenzo Colombo",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 192735,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/stanislav-lobotka-napoli-2026-2627-1788516732-205388.jpg?lm=4711",
+    "name": "Stanislav Lobotka",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/416.png?lm=1789459190",
+    "id": 984964,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/niccolo-fortini-fiorentina-2025-2026-1771080659-189664.jpg?lm=4711",
+    "name": "Niccolò Fortini",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 746891,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cristian-volpato-sassuolo-26-27-1789391594-206177.jpg?lm=4711",
+    "name": "Cristian Volpato",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1390.png?lm=1789459250",
+    "id": 568333,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/adam-obert-cagliari-26-27-1789388321-206154.jpg?lm=4711",
+    "name": "Adam Obert",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1390.png?lm=1789459250",
+    "id": 539134,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/daniel-maldini-italia-2026-1790937313-208201.jpg?lm=4711",
+    "name": "Daniel Maldini",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 459128,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/marco-brescianini-fiorentina-2026-2526-1778163219-196408.jpg?lm=4711",
+    "name": "Marco Brescianini",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 961022,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dominguez-benjamin-bologna-2024-25-1741629833-162974.jpg?lm=4711",
+    "name": "Benja Domínguez",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/5.png?lm=1789459167",
+    "id": 202886,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ruben-loftus-cheek-milan-2024-2324-1708066258-129529.jpg?lm=4711",
+    "name": "Ruben Loftus-Cheek",
+    "value": 8500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1390.png?lm=1789459250",
+    "id": 691482,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jacopo-fazzini-cagliari-2026-2027-1785406201-203348.jpg?lm=4711",
+    "name": "Jacopo Fazzini",
+    "value": 8500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1390.png?lm=1789459250",
+    "id": 564305,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/michel-adopo-cagliari-2024-2025-1052572348-1734533838-157057.jpg?lm=4711",
+    "name": "Michel Adopo",
+    "value": 8500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 557407,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/devyne-rensch-roma-2025-2425-1739275472-160798.jpg?lm=4711",
+    "name": "Devyne Rensch",
+    "value": 8500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 641537,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tommaso-baldanzi-genoa-2026-2526-1781762112-200230.jpg?lm=4711",
+    "name": "Tommaso Baldanzi",
+    "value": 8500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 1283311,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mikel-amondarain-bologna-26-27-1789400455-206237.jpg?lm=4711",
+    "name": "Mikel Amondarain",
+    "value": 8500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/506.png?lm=1789459197",
+    "id": 216569,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jeremie-boga-juventus-2025-2026-1770387760-189101.jpg?lm=4711",
+    "name": "Jérémie Boga",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2919.png?lm=1789459326",
+    "id": 1045124,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jay-robinson-monza-26-27-1788950243-205775.jpg?lm=4711",
+    "name": "Jay Robinson",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/430.png?lm=1789459191",
+    "id": 537602,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/joao-mario-juventus-2025-2526-1757930023-177772.jpg?lm=4711",
+    "name": "João Mário",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 88755,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kevin-de-bruyne-napoli-26-27-1789428669-206340.jpg?lm=4711",
+    "name": "Kevin De Bruyne",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/416.png?lm=1789459190",
+    "id": 798929,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gvidas-gineitis-torino-26-27-1789390966-206168.jpg?lm=4711",
+    "name": "Gvidas Gineitis",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 457736,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tijjani-noslin-lazio-2024-2025-1721746665-143170.jpg?lm=4711",
+    "name": "Tijjani Noslin",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 392538,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tommaso-pobega-bologna-2024-2425-1730114263-152660.jpg?lm=4711",
+    "name": "Tommaso Pobega",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/398.png?lm=1789459190",
+    "id": 916430,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/edoardo-motta-lazio-2025-2026-1777497743-195876.jpg?lm=4711",
+    "name": "Edoardo Motta",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/8970.png?lm=1789459637",
+    "id": 412758,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/giorgi-kvernadze-frosinone-2025-2026-1773187337-191547.jpg?lm=4711",
+    "name": "Giorgi Kvernadze",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 1082774,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/amorim-genoa-2025-2026-1774355511-192918.jpg?lm=4711",
+    "name": "Amorim",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 286297,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lorenzo-pellegrini-roma-2025-2026-1768163527-186932.jpg?lm=4711",
+    "name": "Lorenzo Pellegrini",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12.png?lm=1789459167",
+    "id": 1175298,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/emanuele-lulli-roma-2026-2627-1788432412-205297.jpg?lm=4711",
+    "name": "Emanuele Lulli",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 820635,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/costantino-favasuli-napoli-26-27-1789428504-206338.jpg?lm=4711",
+    "name": "Costantino Favasuli",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 648032,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/james-abankwah-udinese-26-27-1789398184-206220.jpg?lm=4711",
+    "name": "James Abankwah",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 1058354,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/matteo-palma-udinese-26-27-1789398071-206219.jpg?lm=4711",
+    "name": "Matteo Palma",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/410.png?lm=1789459190",
+    "id": 1178488,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/idrissa-gueye-udinese-2026-2526-1787826993-204635.jpg?lm=4711",
+    "name": "Idrissa Gueye",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6574.png?lm=1789459502",
+    "id": 647280,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kieron-bowie-sassuolo-26-27-1789391694-206178.jpg?lm=4711",
+    "name": "Kieron Bowie",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/607.png?lm=1789459204",
+    "id": 552223,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/filip-stankovic-venezia-26-27-1788951192-205783.jpg?lm=4711",
+    "name": "Filip Stanković",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/416.png?lm=1789459190",
+    "id": 864306,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rafik-belghali-verona-2025-2026-1771080296-189663.jpg?lm=4711",
+    "name": "Rafik Belghali",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6195.png?lm=1789459481",
+    "id": 240414,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alex-meret-napoli-2025-2526-1757925521-177737.jpg?lm=4711",
+    "name": "Alex Meret",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 290537,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jean-butez-como-2025-2026-1771079586-189658.jpg?lm=4711",
+    "name": "Jean Butez",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1047.png?lm=1789459228",
+    "id": 281989,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/luis-milla-como-26-27-1789425942-206314.jpg?lm=4711",
+    "name": "Luis Milla",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/607.png?lm=1789459204",
+    "id": 507486,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/simon-sohm-fiorentina-2025-2526-1757926480-177749.jpg?lm=4711",
+    "name": "Simon Sohm",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1025.png?lm=1791788970",
+    "id": 654991,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/samuel-mbangula-bologna-2026-1793217159-210382.jpg?lm=4711",
+    "name": "Samuel Mbangula",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/252.png?lm=1789459182",
+    "id": 586853,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/vitinha-genoa-2024-2324-imago-1707814831-129170.jpg?lm=4711",
+    "name": "Vitinha",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/607.png?lm=1789459204",
+    "id": 504209,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gianluca-busio-venezia-2024-2425-1730111290-152636.jpg?lm=4711",
+    "name": "Gianluca Busio",
+    "value": 8000000,
+    "fallback": false
+  }
+]

@@ -1,0 +1,392 @@
+{
+  "evidence_id": "ev_fd040fba35fc2dfe6d61404be55677ef45f88ff30c4575d8b3c03b073d021d89",
+  "subject": null,
+  "provider": {
+    "id": "rea-playwright-browser-scenario",
+    "name": "REA Playwright browser scenario capture provider",
+    "version": "1"
+  },
+  "analysis_profile": null,
+  "predicate_type": "rea.browser-scenario-capture",
+  "operation": "capture_browser_scenario",
+  "parameters": {
+    "browser": {
+      "mode": "launch",
+      "executable_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "headless": true
+    },
+    "start_url": {
+      "url": "http://127.0.0.1:5174/",
+      "query": []
+    },
+    "environment": {
+      "viewport": {
+        "width": 1280,
+        "height": 720,
+        "device_scale_factor": 1
+      },
+      "locale": "en-US",
+      "timezone": "UTC",
+      "color_scheme": "light",
+      "reduced_motion": "reduce",
+      "service_workers": "block"
+    },
+    "actions": [
+      {
+        "step_id": "start",
+        "timeout_ms": 10000,
+        "action": "click",
+        "locator": {
+          "kind": "role",
+          "role": "button",
+          "name": "게임 시작하기"
+        },
+        "button": "left",
+        "click_count": 1
+      },
+      {
+        "step_id": "higher",
+        "timeout_ms": 10000,
+        "action": "click",
+        "locator": {
+          "kind": "role",
+          "role": "button",
+          "name": "더 높다"
+        },
+        "button": "left",
+        "click_count": 1
+      },
+      {
+        "step_id": "reveal",
+        "action": "wait_for_timeout",
+        "duration_ms": 1700
+      }
+    ],
+    "storage": {
+      "cookies": [],
+      "local_storage": [],
+      "session_storage": []
+    },
+    "secrets": [],
+    "capture": {
+      "after_each_step": [
+        "accessibility"
+      ],
+      "at_end": [
+        "accessibility"
+      ],
+      "events": [
+        "page-errors"
+      ],
+      "network": {
+        "request_body": false,
+        "response_body": false,
+        "header_values": false
+      },
+      "limits": {
+        "max_events": 10000,
+        "max_event_allocation_bytes": 4194304,
+        "max_total_event_allocation_bytes": 16777216,
+        "max_network_transactions": 1024,
+        "max_network_body_bytes": 65536,
+        "max_network_body_allocation_bytes": 1048576,
+        "max_network_header_allocation_bytes": 1048576,
+        "max_network_metadata_allocation_bytes": 1048576
+      }
+    },
+    "scenario_sha256": "c00ac8f1fa8a42c82f5c62e80414beddc74723af1bf76ec82bdabde27e681402"
+  },
+  "raw_result": null,
+  "normalized_result": {
+    "browser": {
+      "mode": "launch",
+      "process_ownership": "provider-owned",
+      "cleanup": "terminated-owned-process",
+      "product": "Chromium",
+      "version": "156.0.4314.50"
+    },
+    "scenario": {
+      "start_origin": "http://127.0.0.1:5174",
+      "action_count": 3,
+      "secret_references": [],
+      "network_content": {
+        "request_body": false,
+        "response_body": false,
+        "header_values": false
+      },
+      "event_families": [
+        "page-errors"
+      ],
+      "limits": {
+        "max_events": 10000,
+        "max_event_allocation_bytes": 4194304,
+        "max_total_event_allocation_bytes": 16777216,
+        "max_network_transactions": 1024,
+        "max_network_body_bytes": 65536,
+        "max_network_body_allocation_bytes": 1048576,
+        "max_network_header_allocation_bytes": 1048576,
+        "max_network_metadata_allocation_bytes": 1048576
+      }
+    },
+    "duration_ms": 3060,
+    "steps": [
+      {
+        "step_index": 0,
+        "step_id": "scenario_start",
+        "action": "goto_start",
+        "elapsed_ms": 671,
+        "before_url": {
+          "url": "about:blank",
+          "origin": null,
+          "query_parameter_names": [],
+          "redacted": false
+        },
+        "after_url": {
+          "url": "http://127.0.0.1:5174/",
+          "origin": "http://127.0.0.1:5174",
+          "query_parameter_names": [],
+          "redacted": false
+        },
+        "event_sequence_start": 1,
+        "event_sequence_end": 0,
+        "artifacts": {
+          "screenshot": {
+            "state": "not_requested"
+          },
+          "dom": {
+            "state": "not_requested"
+          },
+          "accessibility": {
+            "state": "captured",
+            "value": {
+              "sha256": "5e8e7c59bb42615c8559505dfefb2b8ee1d48696bc5a36789696e4691fce765e",
+              "bytes": 2499,
+              "text": "- document:\n  - main:\n    - text: 몸값 대결 축구 시장가치 퀴즈\n    - button \"내 최고기록 0\":\n      - text: 내 최고기록\n      - strong: \"0\"\n    - paragraph: 당신의 축구 감각을 시험할 시간\n    - heading \"누가 더 비쌀까? .\" [level=1]: 누가 더비쌀까? .\n    - paragraph: 이름값 말고, 시장가치. 두 선수 중 몸값이 더 높은 선수를 맞혀보세요.\n    - button \"게임 시작하기\"\n    - text: 월드 클래스 · 쉬움\n    - article:\n      - text: 기준 선수\n      - img \"손흥민의 등번호 7 유니폼 일러스트\": \"7\"\n      - paragraph: 토트넘 홋스퍼\n      - heading \"손흥민\" [level=2]\n      - text: 시장가치\n      - strong: €38M\n    - text: VS\n    - article:\n      - text: 도전 선수\n      - img \"킬리안 음바페의 등번호 9 유니폼 일러스트\": \"9\"\n      - paragraph: 레알 마드리드\n      - heading \"킬리안 음바페\" [level=2]\n      - text: 시장가치\n      - strong: \"?\"\n    - text: 당신의 선택은?\n    - region \"어느 리그에 자신 있나요?\":\n      - paragraph: 무대 선택\n      - heading \"어느 리그에 자신 있나요?\" [level=2]\n      - group \"난이도\":\n        - button \"쉬움\" [pressed]\n        - button \"어려움\"\n      - paragraph: 높다 · 낮다 중 선택해요. 같은 몸값은 둘 다 정답이에요.\n      - button \"월드 클래스 추천 세계 무대의 슈퍼스타 · 62명\" [pressed]\n      - button \"프리미어리그 잉글랜드 · 12명\"\n      - button \"라리가 스페인 · 10명\"\n      - button \"분데스리가 독일 · 10명\"\n      - button \"세리에 A 이탈리아 · 10명\"\n      - button \"리그 1 프랑스 · 10명\"\n      - button \"쉬페르리그 튀르키예 · 10명\"\n      - button \"21세기 레전드 스페셜 전성기 가치로 대결 · 12명\"\n      - button \"월드컵 스타 국가대표들의 한판 승부 · 40명\"\n      - paragraph:\n        - text: 선택한 무대\n        - strong: 월드 클래스\n        - text: / 최고 0점\n      - button \"게임 방법\"\n    - region \"게임 진행 방법\":\n      - text: \"01\"\n      - paragraph:\n        - text: 기준 선수의\n        - strong: 몸값 확인\n      - text: \"02\"\n      - paragraph:\n        - text: 다음 선수의\n        - strong: 몸값 예측\n      - text: \"03\"\n      - paragraph:\n        - text: 정답을 이어\n        - strong: 기록 도전\n    - text: 몸값 대결 · 한국어 에디션 2024/25 시즌 구성 · 게임용 예시 가치"
+            }
+          },
+          "url": {
+            "state": "not_requested"
+          },
+          "history": {
+            "state": "not_requested"
+          },
+          "storage": {
+            "state": "not_requested"
+          }
+        },
+        "completeness": {
+          "status": "complete",
+          "equality_eligible": true,
+          "missing_sections": [],
+          "truncated_sections": []
+        },
+        "status": "completed",
+        "error": null
+      },
+      {
+        "step_index": 1,
+        "step_id": "start",
+        "action": "click",
+        "elapsed_ms": 170,
+        "before_url": {
+          "url": "http://127.0.0.1:5174/",
+          "origin": "http://127.0.0.1:5174",
+          "query_parameter_names": [],
+          "redacted": false
+        },
+        "after_url": {
+          "url": "http://127.0.0.1:5174/",
+          "origin": "http://127.0.0.1:5174",
+          "query_parameter_names": [],
+          "redacted": false
+        },
+        "event_sequence_start": 1,
+        "event_sequence_end": 0,
+        "artifacts": {
+          "screenshot": {
+            "state": "not_requested"
+          },
+          "dom": {
+            "state": "not_requested"
+          },
+          "accessibility": {
+            "state": "captured",
+            "value": {
+              "sha256": "4b49caeefdc4c21fc3934059e7bb32fdb62818904662aac3feddcfbedbfbcf2e",
+              "bytes": 1378,
+              "text": "- document:\n  - main:\n    - paragraph: 월드 클래스 · 쉬움\n    - heading \"누가 더 비쌀까?\" [level=1]\n    - button \"게임 방법\"\n    - button \"게임 나가기\"\n    - text: 현재 점수\n    - strong: \"00\"\n    - text: 최고기록\n    - strong: \"0\"\n    - region \"시장가치 비교\":\n      - article:\n        - text: 기준 선수 기니\n        - img \"세루 기라시의 등번호 9 유니폼 일러스트\": \"9\"\n        - paragraph: 보루시아 도르트문트\n        - heading \"세루 기라시\" [level=2]\n        - paragraph: Serhou Guirassy\n        - text: 시장가치\n        - strong: €40M\n        - text: 4,000만 유로\n      - article:\n        - text: 도전 선수 잉글랜드\n        - img \"데클런 라이스의 등번호 41 유니폼 일러스트\": \"41\"\n        - paragraph: 아스널\n        - heading \"데클런 라이스\" [level=2]\n        - paragraph: Declan Rice\n        - text: 시장가치\n        - strong: \"?\"\n        - text: 더 높을까요, 더 낮을까요?\n    - paragraph:\n      - strong: 데클런 라이스\n      - text: 의 시장가치는\n      - strong: 세루 기라시\n      - text: 보다…\n    - button \"더 높다\"\n    - button \"더 낮다\"\n    - paragraph: 몸값이 같다면 어느 쪽을 골라도 정답이에요.\n    - text: 몸값 대결 · 한국어 에디션 2024/25 시즌 구성 · 게임용 예시 가치"
+            }
+          },
+          "url": {
+            "state": "not_requested"
+          },
+          "history": {
+            "state": "not_requested"
+          },
+          "storage": {
+            "state": "not_requested"
+          }
+        },
+        "completeness": {
+          "status": "complete",
+          "equality_eligible": true,
+          "missing_sections": [],
+          "truncated_sections": []
+        },
+        "status": "completed",
+        "error": null
+      },
+      {
+        "step_index": 2,
+        "step_id": "higher",
+        "action": "click",
+        "elapsed_ms": 50,
+        "before_url": {
+          "url": "http://127.0.0.1:5174/",
+          "origin": "http://127.0.0.1:5174",
+          "query_parameter_names": [],
+          "redacted": false
+        },
+        "after_url": {
+          "url": "http://127.0.0.1:5174/",
+          "origin": "http://127.0.0.1:5174",
+          "query_parameter_names": [],
+          "redacted": false
+        },
+        "event_sequence_start": 1,
+        "event_sequence_end": 0,
+        "artifacts": {
+          "screenshot": {
+            "state": "not_requested"
+          },
+          "dom": {
+            "state": "not_requested"
+          },
+          "accessibility": {
+            "state": "captured",
+            "value": {
+              "sha256": "d3129a8303285db4b6e66c228917dd650db093c6a5ade9577956a297bb312a2d",
+              "bytes": 1309,
+              "text": "- document:\n  - main:\n    - paragraph: 월드 클래스 · 쉬움\n    - heading \"누가 더 비쌀까?\" [level=1]\n    - button \"게임 방법\"\n    - button \"게임 나가기\"\n    - text: 현재 점수\n    - strong: \"01\"\n    - text: 최고기록\n    - strong: \"1\"\n    - region \"시장가치 비교\":\n      - article:\n        - text: 기준 선수 기니\n        - img \"세루 기라시의 등번호 9 유니폼 일러스트\": \"9\"\n        - paragraph: 보루시아 도르트문트\n        - heading \"세루 기라시\" [level=2]\n        - paragraph: Serhou Guirassy\n        - text: 시장가치\n        - strong: €40M\n        - text: 4,000만 유로\n      - article:\n        - text: 도전 선수 잉글랜드\n        - img \"데클런 라이스의 등번호 41 유니폼 일러스트\": \"41\"\n        - paragraph: 아스널\n        - heading \"데클런 라이스\" [level=2]\n        - paragraph: Declan Rice\n        - text: 시장가치\n        - strong: €110M\n        - text: 11,000만 유로\n    - paragraph: 정답이에요! 다음 선수와 대결합니다.\n    - button \"더 높다\" [disabled]\n    - button \"더 낮다\" [disabled]\n    - paragraph: 몸값이 같다면 어느 쪽을 골라도 정답이에요.\n    - text: 몸값 대결 · 한국어 에디션 2024/25 시즌 구성 · 게임용 예시 가치"
+            }
+          },
+          "url": {
+            "state": "not_requested"
+          },
+          "history": {
+            "state": "not_requested"
+          },
+          "storage": {
+            "state": "not_requested"
+          }
+        },
+        "completeness": {
+          "status": "complete",
+          "equality_eligible": true,
+          "missing_sections": [],
+          "truncated_sections": []
+        },
+        "status": "completed",
+        "error": null
+      },
+      {
+        "step_index": 3,
+        "step_id": "reveal",
+        "action": "wait_for_timeout",
+        "elapsed_ms": 1705,
+        "before_url": {
+          "url": "http://127.0.0.1:5174/",
+          "origin": "http://127.0.0.1:5174",
+          "query_parameter_names": [],
+          "redacted": false
+        },
+        "after_url": {
+          "url": "http://127.0.0.1:5174/",
+          "origin": "http://127.0.0.1:5174",
+          "query_parameter_names": [],
+          "redacted": false
+        },
+        "event_sequence_start": 1,
+        "event_sequence_end": 0,
+        "artifacts": {
+          "screenshot": {
+            "state": "not_requested"
+          },
+          "dom": {
+            "state": "not_requested"
+          },
+          "accessibility": {
+            "state": "captured",
+            "value": {
+              "sha256": "2559fb4b130ea1aaefbd86582a20deb48e6aad00ef8b651d8f194663bfeaeb73",
+              "bytes": 1400,
+              "text": "- document:\n  - main:\n    - paragraph: 월드 클래스 · 쉬움\n    - heading \"누가 더 비쌀까?\" [level=1]\n    - button \"게임 방법\"\n    - button \"게임 나가기\"\n    - text: 현재 점수\n    - strong: \"01\"\n    - text: 최고기록\n    - strong: \"1\"\n    - region \"시장가치 비교\":\n      - article:\n        - text: 기준 선수 잉글랜드\n        - img \"데클런 라이스의 등번호 41 유니폼 일러스트\": \"41\"\n        - paragraph: 아스널\n        - heading \"데클런 라이스\" [level=2]\n        - paragraph: Declan Rice\n        - text: 시장가치\n        - strong: €110M\n        - text: 11,000만 유로\n      - article:\n        - text: 도전 선수 스페인\n        - img \"알렉스 그리말도의 등번호 20 유니폼 일러스트\": \"20\"\n        - paragraph: 바이어 레버쿠젠\n        - heading \"알렉스 그리말도\" [level=2]\n        - paragraph: Alejandro Grimaldo\n        - text: 시장가치\n        - strong: \"?\"\n        - text: 더 높을까요, 더 낮을까요?\n    - paragraph:\n      - strong: 알렉스 그리말도\n      - text: 의 시장가치는\n      - strong: 데클런 라이스\n      - text: 보다…\n    - button \"더 높다\"\n    - button \"더 낮다\"\n    - paragraph: 몸값이 같다면 어느 쪽을 골라도 정답이에요.\n    - text: 몸값 대결 · 한국어 에디션 2024/25 시즌 구성 · 게임용 예시 가치"
+            }
+          },
+          "url": {
+            "state": "not_requested"
+          },
+          "history": {
+            "state": "not_requested"
+          },
+          "storage": {
+            "state": "not_requested"
+          }
+        },
+        "completeness": {
+          "status": "complete",
+          "equality_eligible": true,
+          "missing_sections": [],
+          "truncated_sections": []
+        },
+        "status": "completed",
+        "error": null
+      }
+    ],
+    "events": {
+      "retained": 0,
+      "dropped": 0,
+      "items": [],
+      "omissions": {
+        "by_kind": [],
+        "network_transactions": [],
+        "network_transaction_range": null
+      }
+    },
+    "completeness": {
+      "status": "complete",
+      "equality_eligible": true,
+      "missing_sections": [],
+      "truncated_sections": []
+    },
+    "limitations": [
+      "Event sequence records provider receipt order; simultaneous browser causality is not inferred.",
+      "Network content is retained only when selected; Playwright response-body bytes are API results and are not guaranteed to match wire bytes.",
+      "Request bytes are limited to what Playwright exposes; not_exposed does not establish body absence or multipart file coverage.",
+      "Network content reads settle within 5 seconds each and the observer does not request bodies from unfinished responses.",
+      "Playwright scenario events do not expose request initiator stacks; receipt order does not prove causality.",
+      "Storage values are hashed only after declared-secret redaction."
+    ]
+  },
+  "confidence": "observed",
+  "authority": "controlled-replay",
+  "environment": {
+    "id": "Chromium@156.0.4314.50",
+    "platform": "unknown",
+    "architecture": "unknown",
+    "isolation": "process"
+  },
+  "limitations": [
+    "Artifact identity is unavailable for this observation.",
+    "Event sequence records provider receipt order; simultaneous browser causality is not inferred.",
+    "Network content is retained only when selected; Playwright response-body bytes are API results and are not guaranteed to match wire bytes.",
+    "Request bytes are limited to what Playwright exposes; not_exposed does not establish body absence or multipart file coverage.",
+    "Network content reads settle within 5 seconds each and the observer does not request bodies from unfinished responses.",
+    "Playwright scenario events do not expose request initiator stacks; receipt order does not prove causality.",
+    "Storage values are hashed only after declared-secret redaction.",
+    "Browser host platform and architecture were not observed."
+  ],
+  "relationship_coverage": null,
+  "locations": [],
+  "evidence_links": []
+}

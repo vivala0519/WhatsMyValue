@@ -1,0 +1,10 @@
+{
+  "capturedAt": "2026-10-29",
+  "source": "https://www.transfermarkt.co.uk/WhatsMyValue/source",
+  "evidenceId": "ev_2b813fdbf0ad15ce35744d20727d899988153dd4c8f56b43bfdf26f56daf7e46",
+  "responseSha256": "3f4d2bfa26072ead5bf21de40be1b81db89aa87bdd17d6e507479467d379420c",
+  "responseBytes": 90657,
+  "sourceFile": "transfermarkt-source.json",
+  "currency": "EUR",
+  "note": "Raw response snapshot, not a live valuation feed."
+}

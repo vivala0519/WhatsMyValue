@@ -1,0 +1,1532 @@
+[
+  {
+    "id": 3373,
+    "name": "Ronaldinho",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 80000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/ronaldinho-2004-1579094582-29861.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 7594,
+    "name": "Carles Puyol",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/carles-puyol-1410852854-2693.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 7607,
+    "name": "Xavi",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 65000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/xavi-champions-league-sieger-fc-barcelona-1576775733-28764.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 7980,
+    "name": "David Villa",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/david-villa-barcelona-1591363699-40614.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 8564,
+    "name": "Deco",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/deco-barcelona-1591366862-40626.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 4257,
+    "name": "Samuel Eto'o",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 42000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/samuel-etoo-barcelona-1591367145-40629.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 7589,
+    "name": "Víctor Valdés",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/victor-valdes-mit-dem-champions-league-pokal-1589463634-38595.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 3366,
+    "name": "Kaká",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/5.png?lm=1438547172",
+    "value": 70000000,
+    "image": "https://tmssl.akamaized.net/images/foto/originals/ricardo-izecson-dos-santos-leite-1461759091-5300.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 4673,
+    "name": "Wesley Sneijder",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 45000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/wesley-sneijder-inter-mailand-champions-league-sieger-2010-1525712582-15263.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 4360,
+    "name": "Arjen Robben",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/arjen-robben-bejubelt-sein-champions-league-final-tor-mit-bayern-munchen-gegen-borussia-dortmund-1562253842-23378.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 3407,
+    "name": "Ruud van Nistelrooy",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/ruud-van-nistelrooy-manchester-united-1591367591-40630.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 7476,
+    "name": "Xabi Alonso",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/xabi-alonso-1409216352-2514.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 3226,
+    "name": "Nicolas Anelka",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/nicolas-anelka-chelsea-1591367800-40632.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 7520,
+    "name": "Esteban Cambiasso",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 31000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/esteban-cambiasso-inter-1533130573-16923.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 7767,
+    "name": "Fernando Torres",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1456567819",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/fernando-torres-1471427316-5865.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 3109,
+    "name": "Steven Gerrard",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1456567819",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/steven-gerrard-1416228412-3037.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 3144,
+    "name": "Robbie Keane",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1544345801",
+    "value": 21000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/robbie-keane-liverpool-1592491770-41746.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 3202,
+    "name": "Kolo Touré",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 22000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/kolo-toure-arsenal-1591368460-40638.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 3876,
+    "name": "Joe Cole",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 21000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/joe-cole-chelsea-1591368540-40640.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 4010,
+    "name": "Dirk Kuyt",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1456567819",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/dirk-kuyt-1414663992-2864.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 3597,
+    "name": "Jamie Carragher",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1456567819",
+    "value": 19000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/jamie-carragher-von-fc-liverpool-1589984043-39182.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 4072,
+    "name": "Peter Crouch",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/148.png?lm=1544345801",
+    "value": 12000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/peter-crouch-tottenham-1591373898-40654.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 3156,
+    "name": "William Gallas",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 19000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/william-gallas-arsenal-1591602616-40732.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 27577,
+    "name": "Clint Dempsey",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/931.png?lm=1456567819",
+    "value": 15000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/clint-dempsey-fulham-1591602811-40734.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 3522,
+    "name": "Andriy Shevchenko",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/5.png?lm=1438547172",
+    "value": 51000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/andriy-shevchenko-ac-mailand-1523024326-14787.jpg",
+    "year": 2006,
+    "fallback": false
+  },
+  {
+    "id": 3163,
+    "name": "Frank Lampard",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 45000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/frank-lampard-1414152599-2834.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 3924,
+    "name": "Didier Drogba",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/didier-drogba-1406280908-1689.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 63,
+    "name": "Michael Ballack",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/ballack-2005-1584522528-34154.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 3160,
+    "name": "John Terry",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/terry-chelsea-1489225218-8889.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 5658,
+    "name": "Petr Cech",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 28500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/petr-cech-vom-fc-chelsea-1576772289-28752.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 3182,
+    "name": "Ashley Cole",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 27000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/ashley-cole-1404934592-1264.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 23914,
+    "name": "Lassana Diarra",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 24000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/lassana-diarra-real-madrid-1591607198-40739.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 3207,
+    "name": "Thierry Henry",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/thierry-henry-1418724908-4051.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 4380,
+    "name": "Robin van Persie",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 47500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/robin-van-persie-1401794782-230.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 15378,
+    "name": "Andrey Arshavin",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 26000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/arshavin-arsenal-1591696573-40986.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 6710,
+    "name": "Per Mertesacker",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/per-mertesacker-1484829113-7999.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 2514,
+    "name": "Bastian Schweinsteiger",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/bastian-schweinsteiger-mit-dem-champions-league-pokal-in-london-1570548073-26390.jpg",
+    "year": 2011,
+    "fallback": false
+  },
+  {
+    "id": 19726,
+    "name": "Nemanja Vidic‎",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 37000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/nemanja-vidic-lrm--1404377722-919.jpg",
+    "year": 2011,
+    "fallback": false
+  },
+  {
+    "id": 3235,
+    "name": "Rio Ferdinand",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/rio-ferdinand-1505748532-11994.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 3408,
+    "name": "Diego Forlán",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=1519120744",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/diego-forlan-atletico-madrid-2008-09-1589369189-38436.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 3878,
+    "name": "Michael Carrick",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 26500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/carrick-1488533977-8733.jpg",
+    "year": 2006,
+    "fallback": false
+  },
+  {
+    "id": 5285,
+    "name": "Patrice Evra",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 27000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/patrice-evra-manchester-united-1591696697-40988.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 8883,
+    "name": "Emmanuel Adebayor",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/emmanuel-adebayor-asenal-1591696940-40991.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 5588,
+    "name": "Michael Essien",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 38000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/michael-essien-1418303997-3902.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 3979,
+    "name": "Iker Casillas",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/iker-casillas-mit-dem-champions-league-pokal-1588943002-38102.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 25557,
+    "name": "Sergio Ramos",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/sergio-ramos-1572609665-27087.jpg",
+    "year": 2018,
+    "fallback": false
+  },
+  {
+    "id": 8198,
+    "name": "Cristiano Ronaldo",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 120000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/cristiano-ronaldo-dos-santos-aveiro-1467210126-5647.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 28003,
+    "name": "Lionel Messi",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 180000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/messi-1493045428-9885.jpg",
+    "year": 2018,
+    "fallback": false
+  },
+  {
+    "id": 68290,
+    "name": "Neymar",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/583.png?lm=1522312728",
+    "value": 180000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/neymar-psg-1583319208-33106.jpg",
+    "year": 2018,
+    "fallback": false
+  },
+  {
+    "id": 13091,
+    "name": "Yaya Touré",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 36500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/yaya-toure-1405693246-1456.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 18301,
+    "name": "Maicon",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 32000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/maicon-douglas-sisenando-1418802610-4113.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 7600,
+    "name": "Andrés Iniesta",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406106969",
+    "value": 70000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/iniesta-1490098950-9052.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 8806,
+    "name": "Cesc Fàbregas",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 55000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/cesc-fabregas-2008-1589359124-38414.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 18944,
+    "name": "Gerard Piqué",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/gerard-pique-1464871774-5489.jpg",
+    "year": 2018,
+    "fallback": false
+  },
+  {
+    "id": 3455,
+    "name": "Zlatan Ibrahimovic",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 46000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/zlatan-ibrahimovic-yaya-tour-fc-barcelona-1517674290-13854.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 37666,
+    "name": "Arturo Vidal",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1539869052",
+    "value": 45000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/arturo-vidal-1401190366-70.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 15951,
+    "name": "Dani Alves",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 36000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/dani-alves-1402061222-474.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 4188,
+    "name": "Ricardo Quaresma",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/ricardo-quaresma-inter-1591697190-40994.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 16922,
+    "name": "Kevin-Prince Boateng",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/5.png?lm=1438547172",
+    "value": 23000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/kevin-prince-boateng-1454346782-4881.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 3854,
+    "name": "Juan Román Riquelme",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/1050.png?lm=1408655310",
+    "value": 18000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/juan-roman-riquelme-fc-villarreal-1575894792-28110.jpg",
+    "year": 2006,
+    "fallback": false
+  },
+  {
+    "id": 2904,
+    "name": "Rafael Márquez",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 16000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/rafael-marquez-barcelona-1591697481-40996.jpg",
+    "year": 2006,
+    "fallback": false
+  },
+  {
+    "id": 3515,
+    "name": "Mark van Bommel",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 15000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/mark-van-bommel-fc-bayern-1492491901-9788.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 39152,
+    "name": "Falcao",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=1519120744",
+    "value": 60000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/falcao-atltico-madrid-1516738318-13635.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 26399,
+    "name": "Sergio Agüero",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 80000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/sergio-aguero-1408085430-2332.jpg",
+    "year": 2018,
+    "fallback": false
+  },
+  {
+    "id": 35518,
+    "name": "David Silva",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/flgelstrmer-david-silva-von-manchester-city-1526903325-15509.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 33706,
+    "name": "Nani",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 36500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/luis-carlos-almeida-da-cunha-1401914082-339.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 34557,
+    "name": "Nicklas Bendtner",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 10000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/nicklas-bendtner-1404912541-1205.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 4357,
+    "name": "Klaas-Jan Huntelaar",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/610.png?lm=1458894971",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/klaas-jan-huntelaar-ajax-amsterdam-1517672688-13851.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 37579,
+    "name": "Alexandre Pato",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/5.png?lm=1438547172",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/alexandre-pato-sao-paulo-1591697654-40997.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 7825,
+    "name": "Pepe Reina",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1456567819",
+    "value": 22000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/pepe-reina-1407269630-2045.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 44352,
+    "name": "Luis Suárez",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 90000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/luis-suarez-fc-barcelona-1540747563-18540.jpg",
+    "year": 2015,
+    "fallback": false
+  },
+  {
+    "id": 3216,
+    "name": "Milan Baros",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1456567819",
+    "value": 17500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/milan-baros-liverpool-1591697799-40998.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 4276,
+    "name": "Carlos Tevez",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/carlos-tevez-manchester-city-1591697946-40999.jpg",
+    "year": 2011,
+    "fallback": false
+  },
+  {
+    "id": 15511,
+    "name": "Robinho",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 36500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/robson-de-souza-1417016196-3164.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 9594,
+    "name": "Vincent Kompany",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/vincent-kompany-1515186222-13319.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 4672,
+    "name": "Nigel de Jong",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 21000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/nigel-de-jong-manchester-city-1591698209-41000.jpg",
+    "year": 2011,
+    "fallback": false
+  },
+  {
+    "id": 3332,
+    "name": "Wayne Rooney",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 65000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/wayne-rooney-1443516516-4749.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 1397,
+    "name": "Michael Owen",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/michael-owen-real-madrid-1592559853-41803.jpg",
+    "year": 2004,
+    "fallback": false
+  },
+  {
+    "id": 15185,
+    "name": "Lukas Podolski",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 23000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/lukas-podolski-1416228519-3039.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 35773,
+    "name": "Carlos Vela",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/681.png?lm=1583536991",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/carlos-vela-1461926645-5362.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 27992,
+    "name": "Luka Modric",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 55000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/luka-modric-1408529855-2395.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 3875,
+    "name": "Jermain Defoe",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/148.png?lm=1544345801",
+    "value": 18000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/jermain-defoe-tottenham-1591698553-41002.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 3291,
+    "name": "Gareth Barry",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/405.png?lm=1544345801",
+    "value": 18500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/gareth-barry-aston-villa-1591698660-41003.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 197838,
+    "name": "Jamie Vardy",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/1003.png?lm=1472229265",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/jamie-vardy-1454506848-4894.jpg",
+    "year": 2016,
+    "fallback": false
+  },
+  {
+    "id": 22068,
+    "name": "Franck Ribéry",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/franck-ribery-fc-bayern-munchen-2018-19-1537162365-17719.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 77,
+    "name": "Lúcio",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 24500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/lucio-am-ball-fur-den-fc-bayern-munchen-1580328164-30732.jpg",
+    "year": 2006,
+    "fallback": false
+  },
+  {
+    "id": 17259,
+    "name": "Manuel Neuer",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 45000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/manuel-neuer-fc-bayern-mnchen-1504728578-11837.jpg",
+    "year": 2015,
+    "fallback": false
+  },
+  {
+    "id": 10,
+    "name": "Miroslav Klose",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/86.png?lm=1403082298",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/miroslav-klose-1400925152-11.jpg",
+    "year": 2006,
+    "fallback": false
+  },
+  {
+    "id": 2219,
+    "name": "Philipp Lahm",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/philipp-lahm-1417603616-3442.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 38253,
+    "name": "Robert Lewandowski",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 90000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/bayern-jubel-lewandowski-1493541017-9989.jpg",
+    "year": 2018,
+    "fallback": false
+  },
+  {
+    "id": 18922,
+    "name": "Karim Benzema",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 60000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/karim-benzema-real-madrid-1573810134-27453.jpg",
+    "year": 2016,
+    "fallback": false
+  },
+  {
+    "id": 9828,
+    "name": "Ricardo Carvalho",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/ricardo-carvalho-chelsea-1591633088-40891.jpg",
+    "year": 2004,
+    "fallback": false
+  },
+  {
+    "id": 29241,
+    "name": "Thiago Silva",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/583.png?lm=1522312728",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/thiago-silva-psg-1579690195-30213.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 5023,
+    "name": "Gianluigi Buffon",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1539869052",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/gianluigi-buffon-1416218401-3017.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 39728,
+    "name": "Mats Hummels",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 60000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/mats-hummels-fc-bayern-munchen-1560673241-23006.jpg",
+    "year": 2018,
+    "fallback": false
+  },
+  {
+    "id": 39983,
+    "name": "Leonardo Bonucci",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1539869052",
+    "value": 45000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/leonardo-bonucci-1401821809-259.jpg",
+    "year": 2017,
+    "fallback": false
+  },
+  {
+    "id": 5817,
+    "name": "Andrea Pirlo",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/5.png?lm=1438547172",
+    "value": 36000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/andrea-pirlo-mit-dem-champions-league-pokal-1588945679-38114.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 44716,
+    "name": "Claudio Marchisio",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1438547172",
+    "value": 31000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/claudio-marchisio-1401272228-118.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 5980,
+    "name": "Luca Toni",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/430.png?lm=1520933432",
+    "value": 28500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/luca-toni-ac-florenz-1589295522-38373.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 5762,
+    "name": "Mauro Camoranesi",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1438547172",
+    "value": 18000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/mauro-camoranesi-juventus-1591632937-40888.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 22328,
+    "name": "Fabio Quagliarella",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1438547172",
+    "value": 17500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/fabio-quagliarella-juventus-1591632662-40885.jpg",
+    "year": 2011,
+    "fallback": false
+  },
+  {
+    "id": 70,
+    "name": "Émerson",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1438547172",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/emerson-juventus-1591632237-40882.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 5878,
+    "name": "Alberto Gilardino",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/5.png?lm=1472921161",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/alberto-gilardino-ac-milan-1591632083-40880.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 5757,
+    "name": "Gianluca Zambrotta",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1438547172",
+    "value": 28000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/gianluca-zambrotta-1548145763-20013.jpg",
+    "year": 2004,
+    "fallback": false
+  },
+  {
+    "id": 5422,
+    "name": "Philippe Mexès",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/12.png?lm=1533302889",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/philippe-mexes-as-rom-1591631846-40877.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 66521,
+    "name": "Keisuke Honda",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/2410.png?lm=1472921161",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/keisuke-honda-1406841327-1899.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 19446,
+    "name": "Riccardo Montolivo",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/430.png?lm=1520933432",
+    "value": 18500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/riccardo-montolivo-1464789096-5441.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 54928,
+    "name": "Diego Godin",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=1519120744",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/diego-godin-1419082136-4213.jpg",
+    "year": 2016,
+    "fallback": false
+  },
+  {
+    "id": 22412,
+    "name": "Júlio César",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/julio-cesar-inter-1591631685-40875.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 5938,
+    "name": "Wálter Samuel",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1406106969",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/walter-samuel-real-madrid-1591631500-40872.jpg",
+    "year": 2004,
+    "fallback": false
+  },
+  {
+    "id": 3428,
+    "name": "Dejan Stanković",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 24500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/dejan-stankovic-inter-mailand-1585581281-35266.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 5958,
+    "name": "Francesco Totti",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/12.png?lm=1533302889",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/francesco-totti-1483545906-6791.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 5947,
+    "name": "Daniele De Rossi",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/12.png?lm=1533302889",
+    "value": 38000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/de-rossi-daniele-de-asrom-1523392637-14844.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 5876,
+    "name": "Adriano",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/adriano-inter-mailand-2001-1524844439-15143.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 38593,
+    "name": "Marek Hamsik",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/6195.png?lm=1437135876",
+    "value": 40000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/marek-hamsik-1476711437-6272.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 50570,
+    "name": "Ezequiel Lavezzi",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/6195.png?lm=1437135876",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/ezequiel-lavezzi-1405971845-1534.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 4015,
+    "name": "Louis Saha",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 18000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/louis-saha-im-trikot-von-manchester-united-1583404185-33171.jpg",
+    "year": 2004,
+    "fallback": false
+  },
+  {
+    "id": 6031,
+    "name": "Antonio Di Natale",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/410.png?lm=1437136398",
+    "value": 15000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/antonio-di-natale-1404810059-1117.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 7663,
+    "name": "Joaquín",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/1049.png?lm=1406966320",
+    "value": 28000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/joaquin-sanchez-rodriguez-1418309342-3937.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 3333,
+    "name": "James Milner",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 21000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/james-milner-1448551981-4818.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 80562,
+    "name": "Hulk",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/964.png?lm=1486195881",
+    "value": 48000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/hulk-zenit-st-petersburg-1516739017-13638.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 14132,
+    "name": "Pepe",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/pepe-1491813336-9693.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 22202,
+    "name": "Diego Milito",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 28000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/diego-milito-1418639049-3975.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 4192,
+    "name": "Rafael Van der Vaart",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 26000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/rafael-van-der-vaart-real-madrid-1591631316-40870.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 50935,
+    "name": "Chicharito",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/15.png?lm=1403163785",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/chicharito-1496036589-10447.jpg",
+    "year": 2016,
+    "fallback": false
+  },
+  {
+    "id": 19981,
+    "name": "Javier Mascherano",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/javier-mascherano-1402209499-564.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 41982,
+    "name": "Radja Nainggolan",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/12.png?lm=1533302889",
+    "value": 45000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/nainggolan-roma-1501180054-11305.jpg",
+    "year": 2017,
+    "fallback": false
+  },
+  {
+    "id": 3700,
+    "name": "Frédéric Kanouté",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/368.png?lm=1408655455",
+    "value": 22000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/frederic-kanoute-fc-sevilla-1590153374-39329.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 4248,
+    "name": "Diego",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/86.png?lm=1403082298",
+    "value": 29000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/diego-werder-bremen-1587381307-36714.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 5283,
+    "name": "Éric Abidal",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/eric-abidal-1418995555-4212.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 46741,
+    "name": "David Luiz",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/583.png?lm=1522312728",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/david-luiz-psg-1591631091-40867.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 532,
+    "name": "Claudio Pizarro",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 12000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/claudio-pizarro-bayern-1591630709-40863.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 7602,
+    "name": "Thiago Motta",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/46.png?lm=1406106969",
+    "value": 16000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/thiago-motta-inter-1591630430-40859.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 3140,
+    "name": "Ronaldo",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 45000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/ronaldo-luis-nazario-de-lima-1475754592-6247.jpg",
+    "year": 2004,
+    "fallback": false
+  },
+  {
+    "id": 3411,
+    "name": "Pablo Aimar",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/1049.png?lm=1406966320",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/pablo-aimar-valenica-1591630235-40856.jpg",
+    "year": 2004,
+    "fallback": false
+  },
+  {
+    "id": 34987,
+    "name": "Burak Yilmaz",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/141.png?lm=1406739071",
+    "value": 18000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/burak-yilmaz-1466414454-5565.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 21369,
+    "name": "Arda Turan",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=1519120744",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/arda-turan-atletico-1591630079-40854.jpg",
+    "year": 2015,
+    "fallback": false
+  },
+  {
+    "id": 36827,
+    "name": "Branislav Ivanovic",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 24000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/branislav-ivanovic-chelsea-1591629643-40849.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 14942,
+    "name": "Darijo Srna",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/660.png?lm=1472921161",
+    "value": 17500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/darijo-srna-1402478442-673.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 33481,
+    "name": "Gervinho",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/12.png?lm=1533302889",
+    "value": 18500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/gervais-lombe-yao-kouassi-1454598861-4949.jpg",
+    "year": 2015,
+    "fallback": false
+  },
+  {
+    "id": 22969,
+    "name": "Gabi",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=1519120744",
+    "value": 12000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/gabi-atletico-1591622181-40799.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 23951,
+    "name": "Steve Mandanda",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/244.png?lm=1485642163",
+    "value": 17000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/steve-mandanda-olympique-marseille-1591622336-40800.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 15799,
+    "name": "Santi Cazorla",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/cazorla-arsenal-1489226442-8890.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 3994,
+    "name": "Roy Makaay",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/roy-makaay-fc-bayern-1585664977-35466.jpg",
+    "year": 2005,
+    "fallback": false
+  },
+  {
+    "id": 6288,
+    "name": "Mario Gómez",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1498251238",
+    "value": 42000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/mario-gomez-fc-bayern-mnchen-1516984944-13718.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 13168,
+    "name": "Raúl Meireles",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1456567819",
+    "value": 16000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/raul-meireles-liverpool-1591629520-40848.jpg",
+    "year": 2011,
+    "fallback": false
+  },
+  {
+    "id": 74418,
+    "name": "Jackson Martínez",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=1519120744",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/jackson-martinez-atletico-1591629342-40846.jpg",
+    "year": 2015,
+    "fallback": false
+  },
+  {
+    "id": 1725,
+    "name": "Filipe Luís",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=15191207448",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/filipe-luis-atletico-madrid-1554283632-21503.jpg",
+    "year": 2016,
+    "fallback": false
+  },
+  {
+    "id": 35537,
+    "name": "Felipe Melo",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/506.png?lm=1539869052",
+    "value": 19000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/felipe-melo-juventus-1591622750-40803.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 5354,
+    "name": "Juninho Pernambucano",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/1041.png?lm=1581024966",
+    "value": 18000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/juninho-lyon-1591623095-40808.jpg",
+    "year": 2006,
+    "fallback": false
+  },
+  {
+    "id": 15570,
+    "name": "Igor Akinfeev",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/2410.png?lm=1409254138",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/akinfeev-orenburg-zska-1584253835-33788.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 8019,
+    "name": "Simão",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=1519120744",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/simao-atletico-1591623453-40812.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 33947,
+    "name": "Rafinha",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/33.png?lm=1433588238",
+    "value": 12000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/rafinha-schalke-1591624560-40817.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 12563,
+    "name": "Goran Pandev",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/398.png?lm=1539362329",
+    "value": 18000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/goran-pandev-lazio-1592560072-41805.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 6448,
+    "name": "Mirko Vucinic",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/12.png?lm=1533302889",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/mirko-vucinic-as-rom-1591629053-40843.jpg",
+    "year": 2010,
+    "fallback": false
+  },
+  {
+    "id": 45865,
+    "name": "Óscar Cardozo",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/294.png?lm=1535908439",
+    "value": 17500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/oscar-cardozo-1407225425-1999.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 29401,
+    "name": "Sami Khedira",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1580722449",
+    "value": 35000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/sami-khedira-1415865525-2991.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 29364,
+    "name": "João Moutinho",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/720.png?lm=1486310161",
+    "value": 30000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/joao-moutinho-porto-1591625036-40821.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 13556,
+    "name": "Tim Cahill",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/29.png?lm=1445949846",
+    "value": 16000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/tim-cahill-everton-1591628867-40841.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 27511,
+    "name": "Gary Cahill",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/gary-cahill-1464863503-5460.jpg",
+    "year": 2014,
+    "fallback": false
+  },
+  {
+    "id": 46156,
+    "name": "Aleksandar Kolarov",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1444558831",
+    "value": 17000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/kolarov-1500626262-11226.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 3966,
+    "name": "Djibril Cissé",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/31.png?lm=1456567819",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/djibril-cisse-1429263873-4665.jpg",
+    "year": 2004,
+    "fallback": false
+  },
+  {
+    "id": 132,
+    "name": "Tomas Rosicky",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 17500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/tomas-rosicky-1464947522-5511.jpg",
+    "year": 2008,
+    "fallback": false
+  },
+  {
+    "id": 16760,
+    "name": "Yuri Zhirkov",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/2410.png?lm=1409254138",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/yuri-zhirkov-zska-moskau-2005-1528031236-15721.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 35664,
+    "name": "Mesut Özil",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/11.png?lm=1489787850",
+    "value": 50000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/mesut-ozil-1401091528-28.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 5461,
+    "name": "Florent Malouda",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/1041.png?lm=1581024966",
+    "value": 20000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/florent-malouda-lyon-1591628693-40840.jpg",
+    "year": 2007,
+    "fallback": false
+  },
+  {
+    "id": 65,
+    "name": "Dimitar Berbatov",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/985.png?lm=1457975903",
+    "value": 34500000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/dimitar-berbatov-manchester-united-1536005220-17502.jpg",
+    "year": 2009,
+    "fallback": false
+  },
+  {
+    "id": 28396,
+    "name": "Edin Dzeko",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/281.png?lm=1467356331",
+    "value": 32000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/edin-dzeko-1407997846-2285.jpg",
+    "year": 2012,
+    "fallback": false
+  },
+  {
+    "id": 30739,
+    "name": "John Obi Mikel",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/631.png?lm=1444558831",
+    "value": 23000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/john-mikel-obi-2008-1589363374-38428.jpg",
+    "year": 2013,
+    "fallback": false
+  },
+  {
+    "id": 5879,
+    "name": "Adrian Mutu",
+    "club": "https://tmssl.akamaized.net//images/wappen/medium/430.png?lm=1520933432",
+    "value": 25000000,
+    "image": "https://tmssl.akamaized.net//images/foto/normal/adrian-mutu-florenz-1591628510-40839.jpg",
+    "year": 2008,
+    "fallback": false
+  }
+]

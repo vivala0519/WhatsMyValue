@@ -1,0 +1,2002 @@
+[
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 401923,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/victor-osimhen-galatasaray-2026-2027-2-1791793441-209102.jpg?lm=4711",
+    "name": "Victor Osimhen",
+    "value": 65000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 532826,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mason-greenwood-fenerbahce-2026-2027-1787122910-204072.jpg?lm=4711",
+    "name": "Mason Greenwood",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 357164,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rafael-leao-galatasaray-2026-2027-1788768248-205550.jpg?lm=4711",
+    "name": "Rafael Leão",
+    "value": 40000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 357498,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/-dusan-vlahovic-besiktas-2026-2027-1788767738-205543.jpg?lm=4711",
+    "name": "Dušan Vlahović",
+    "value": 32000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 541537,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/baris-alper-yilmaz-galatasaray-2026-2027-1791793596-209103.png?lm=4711",
+    "name": "Barış Alper Yılmaz",
+    "value": 30000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 454567,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/orkun-kokcu-besiktas-2026-2027-1-1787039301-203968.jpg?lm=4711",
+    "name": "Orkun Kökçü",
+    "value": 28000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 720286,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/aleksey-batrakov-galatasaray-2026-2027-2-1792509209-209793.jpg?lm=4711",
+    "name": "Aleksey Batrakov",
+    "value": 28000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 465830,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/matteo-guendouzi-fenerbahce-1789975971-206873.jpeg?lm=4711",
+    "name": "Mattéo Guendouzi",
+    "value": 27000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 553469,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gabriel-sara-galatasaray-1789391117-206170.jpeg?lm=4711",
+    "name": "Gabriel Sara",
+    "value": 27000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 718303,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ernest-poku-bayer-04-leverkusen-2026-1784791365-202827.jpg?lm=4711",
+    "name": "Ernest Poku",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 711999,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lesley-ugochukwu-galatasaray-1789392445-206187.jpeg?lm=4711",
+    "name": "Lesley Ugochukwu",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 929090,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/franculino-trabzonspor-2026-2027-1793054782-210227.jpg?lm=4711",
+    "name": "Franculino",
+    "value": 22000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 671591,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dorgeles-nene-fenerbahce-1762769448-182486.jpeg?lm=4711",
+    "name": "Dorgeles Nene",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 648779,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/wilfried-singo-galatasaray-2025-2026-1790237591-207300.jpg?lm=4711",
+    "name": "Wilfried Singo",
+    "value": 20000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 382528,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kerem-akturkoglu-fenerbahce-2026-2027-3-1792508982-209791.jpg?lm=4711",
+    "name": "Kerem Aktürkoğlu",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 581329,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/archie-brown-fenerbahce-2026-1789068132-205925.jpg?lm=4711",
+    "name": "Archie Brown",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 144028,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/leandro-trossard-besiktas-2026-2027-2-1791796954-209113.jpg?lm=4711",
+    "name": "Leandro Trossard",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 396908,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yunus-akgun-galatasaray-2026-2027-1787041688-203979.jpg?lm=4711",
+    "name": "Yunus Akgün",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 787912,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/el-chadaille-bitshiabu-galatasaray-1789391334-206173.jpeg?lm=4711",
+    "name": "El Chadaille Bitshiabu",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 985825,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/chibuike-nwaiwu-trabzonspor-1789741738-206673.jpg?lm=4711",
+    "name": "Chibuike Nwaiwu",
+    "value": 18000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 591361,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jayden-oosterwolde-fenerbahce-2026-2027-1-1783933022-202125.jpg?lm=4711",
+    "name": "Jayden Oosterwolde",
+    "value": 17000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 148455,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mohamed-salah-trabzonspor-2026-2027-7-1787555291-204403.jpg?lm=4711",
+    "name": "Mohamed Salah",
+    "value": 17000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 341429,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/davinson-sanchez-galatasaray-2025-2026-1783521413-201867.jpg?lm=4711",
+    "name": "Davinson Sánchez",
+    "value": 16000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 613725,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ismail-yuksek-turkiye-2026-1780394208-198786.jpg?lm=4711",
+    "name": "İsmail Yüksek",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 571607,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/fabio-miretti-of-besiktas-2026-1792756893-210026.jpg?lm=4711",
+    "name": "Fabio Miretti",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 639246,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hyeon-gyu-oh-besiktas-2025-2026-1-1771246811-189752.jpg?lm=4711",
+    "name": "Hyeon-gyu Oh",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 192565,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/leroy-sane-galatasaray-1789392118-206182.jpeg?lm=4711",
+    "name": "Leroy Sané",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 514887,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/aral-simsir-turkiye-2026-1-1791274972-208553.jpg?lm=4711",
+    "name": "Aral Şimşir",
+    "value": 15000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 683895,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/emmanuel-agbadou-besiktas-2025-2026-2-1772444221-190709.jpg?lm=4711",
+    "name": "Emmanuel Agbadou",
+    "value": 14000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 292199,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ugurcan-cakir-galatasaray-1789391959-206180.jpeg?lm=4711",
+    "name": "Uğurcan Çakır",
+    "value": 13000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 296622,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/marco-asensio-fenerbahce-2025-2026-1760962566-180829.jpg?lm=4711",
+    "name": "Marco Asensio",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 1113451,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kojo-peprah-oppong-fenerbahce-2026-1789976372-206876.jpeg?lm=4711",
+    "name": "Kojo Oppong",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 900938,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/junior-olaitan-besiktas-1789635772-206547.jpeg?lm=4711",
+    "name": "Junior Olaitan",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 947360,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kassoum-ouattara-besiktas-2026-2027-1790602395-207732.jpg?lm=4711",
+    "name": "Kassoum Ouattara",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 332798,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/roland-sallai-galatasaray-1789391793-206179.jpeg?lm=4711",
+    "name": "Roland Sallai",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 671669,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/noah-saviolo-trabzonspor-2026-2027-1792142674-209481.jpg?lm=4711",
+    "name": "Noah Saviolo",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 1072017,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/noah-saviolo-trabzonspor-1789892703-206753.jpg?lm=4711",
+    "name": "Wagner Pina",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 662332,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/juan-goztepe-2025-2026-1-1791891189-209197.jpg?lm=4711",
+    "name": "Juan",
+    "value": 12000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 583917,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ernest-muci-trabzonspor-2026-2027-1787557994-204405.jpg?lm=4711",
+    "name": "Ernest Muci",
+    "value": 11000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 177476,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nathan-ake-fenerbahce-2026-2027-2-1787043675-203987.jpg?lm=4711",
+    "name": "Nathan Aké",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 195778,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alexander-nubel-besiktas-2026-2027-2-1792142397-209480.jpg?lm=4711",
+    "name": "Alexander Nübel",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 1063292,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/deniz-gul-galatasaray-2026-2027-1-1792509168-209792.jpg?lm=4711",
+    "name": "Deniz Gül",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 611855,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sidny-lopes-cabral-trabzonspor-2026-2027-1-1787316950-204284.jpg?lm=4711",
+    "name": "Sidny Lopes Cabral",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 665048,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arseniy-batagov-trabzonspor-2025-2026-2-1761572794-181379.jpg?lm=4711",
+    "name": "Arseniy Batagov",
+    "value": 10000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 563749,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/oguz-aydin-vedat-muriqi-fenerbahce-1788186921-204977.jpg?lm=4711",
+    "name": "Oğuz Aydın",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 531332,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/emirhan-topcu-besiktas-2026-1789635413-206546.jpeg?lm=4711",
+    "name": "Emirhan Topçu",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 318077,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lucas-torreira-galatasaray-1789389841-206162.jpeg?lm=4711",
+    "name": "Lucas Torreira",
+    "value": 9000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 204069,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/milan-skriniar-fenerbahce-2026-2027-1-1791792701-209099.jpg?lm=4711",
+    "name": "Milan Škriniar",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 238223,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ederson-fenerbahce-2026-1789975849-206871.jpeg?lm=4711",
+    "name": "Ederson",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 420465,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tiago-djalo-besiktas-2026-2027-1787039265-203967.jpg?lm=4711",
+    "name": "Tiago Djaló",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 875334,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/semih-kilicsoy-besiktas-2026-2027-1787039544-203970.jpg?lm=4711",
+    "name": "Semih Kılıçsoy",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 958647,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/umit-akdag-besiktas-2026-2027-1792696462-209984.jpg?lm=4711",
+    "name": "Ümit Akdağ",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 375137,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ismail-jakobs-senegal-2026-1793262345-210397.jpg?lm=4711",
+    "name": "Ismail Jakobs",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 225693,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/fabinho-trabzonspor-1789741839-206674.jpg?lm=4711",
+    "name": "Fabinho",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 234509,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andre-onana-trabzonspor-1789741420-206671.jpeg?lm=4711",
+    "name": "André Onana",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 700031,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arda-okan-kurtulan-goztepe-2025-1766765001-186114.jpg?lm=4711",
+    "name": "Arda Okan Kurtulan",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 672803,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/bertug-yildirim-basaksehir-2025-2026-3-1777293245-195669.jpg?lm=4711",
+    "name": "Bertuğ Yıldırım",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 479643,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/corum-fk-alexandre-penetra-2026-2027-1785834855-203615.jpg?lm=4711",
+    "name": "Alexandre Penetra",
+    "value": 8000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 256267,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/vedat-muriqi-fenerbahce-1789976176-206874.jpeg?lm=4711",
+    "name": "Vedat Muriqi",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 353922,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mert-muldur-fenerbahce-2026-2027-1-1789115238-205957.jpg?lm=4711",
+    "name": "Mert Müldür",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 242063,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/vaclav-cerny-besiktas-2026-2027-1787038982-203963.jpg?lm=4711",
+    "name": "Vaclav Cerny",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 354482,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/amir-murillo-besiktas-2026-2027-2-1792142324-209479.jpg?lm=4711",
+    "name": "Amir Murillo",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 477930,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ridvan-yilmaz-besiktas-2026-2027-2-1788767790-205544.jpg?lm=4711",
+    "name": "Rıdvan Yılmaz",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 1047101,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ilhan-fakili-besiktas-2026-2027-1789109467-205938.jpg?lm=4711",
+    "name": "İlhan Fakılı",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 674241,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tim-jabol-folcarelli-trabzonspor-2025-2026-1-1754984595-174593.jpg?lm=4711",
+    "name": "Tim Jabol-Folcarelli",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2832.png?lm=1789459320",
+    "id": 554284,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kacper-kozlowski-gaziantep-fk-1765223061-184566.jpg?lm=4711",
+    "name": "Kacper Kozłowski",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 358166,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/eldor-shomurodov-basaksehir-2025-2026-2-1776067408-194529.jpg?lm=4711",
+    "name": "Eldor Shomurodov",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 408563,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jerome-opoku-basaksehir-2025-2026-1773913543-192469.jpg?lm=4711",
+    "name": "Jerome Opoku",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 754037,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/abbosbek-fayzullaev-basaksehir-1766436648-185904.jpg?lm=4711",
+    "name": "Abbosbek Fayzullaev",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 454386,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/adrian-benedyczak-kasimpasa-2026-2027-1787576074-204444.png?lm=4711",
+    "name": "Adrian Benedyczak",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12382.png?lm=1789459801",
+    "id": 1018259,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gift-orban-amed-sk-1789898755-206781.jpg?lm=4711",
+    "name": "Gift Orban",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 658531,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mohamed-diomande-corum-fk-1789983530-206923.jpg?lm=4711",
+    "name": "Mohamed Diomandé",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 803049,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ermin-mahmic-corum-fk-2026-2027-1788852070-205651.jpg?lm=4711",
+    "name": "Ermin Mahmic",
+    "value": 7000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 96341,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/romelu-lukaku-fenerbahce-2026-2027-1792508928-209790.png?lm=4711",
+    "name": "Romelu Lukaku",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 244940,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/salih-ozcan-besiktas-2026-2027-1-1787314871-204273.jpg?lm=4711",
+    "name": "Salih Özcan",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 274839,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/wilfred-ndidi-besiktas-1766781074-186132.jpg?lm=4711",
+    "name": "Wilfred Ndidi",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 418651,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yahia-fofana-rizespor-2025-2026-2-1773053791-191318.jpg?lm=4711",
+    "name": "Yahia Fofana",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 1396595,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/renato-nhaga-galatasaray-2025-2026-1772609579-190895.jpg?lm=4711",
+    "name": "Renato Nhaga",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 574660,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/strahinja-erakovic-zenit-2025-2026-1756698790-176295.jpg?lm=4711",
+    "name": "Strahinja Erakovic",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 272855,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/paul-onuachu-trabzonspor-2026-2027-2-1788770467-205563.jpg?lm=4711",
+    "name": "Paul Onuachu",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 976561,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/janderson-de-carvalho-costa-goztepe-2025-2026-3-1756107968-175701.jpg?lm=4711",
+    "name": "Janderson",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 666551,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/maestro-alanyaspor-2026-1789893740-206761.jpg?lm=4711",
+    "name": "Maestro",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 419936,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jesus-ramirez-corum-fk-1789981288-206902.jpg?lm=4711",
+    "name": "Jesús Ramírez",
+    "value": 6000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 199316,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/abdulkerim-bardakci-galatasaray-2026-2027-1-1792509249-209794.jpeg?lm=4711",
+    "name": "Abdülkerim Bardakcı",
+    "value": 5500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 388820,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/levent-mercan-fenerbahce-2025-2026-2-1767772890-186589.jpg?lm=4711",
+    "name": "Levent Mercan",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 810100,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/taylan-bulut-besiktas-2025-1765551312-185095.jpg?lm=4711",
+    "name": "Taylan Bulut",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 1043003,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yasin-ozcan-2025-2026-anderlecht-1765441528-184910.jpg?lm=4711",
+    "name": "Yasin Özcan",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 1071252,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mustafa-hekimoglu-besiktas-2025-2026-1752500605-172347.jpg?lm=4711",
+    "name": "Mustafa Hekimoğlu",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 616894,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/eren-elmali-turkiye-2026-1791274905-208552.jpg?lm=4711",
+    "name": "Eren Elmalı",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 395234,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/batista-mendy-sevilla-2025-2026-1766134742-185635.jpg?lm=4711",
+    "name": "Batista Mendy",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/820.png?lm=1789459213",
+    "id": 637803,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rafael-luis-genclerbirligi-1790332326-207444.jpeg?lm=4711",
+    "name": "Rafael Luís",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 647787,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/malcom-bokele-goztepe-2025-1766766756-186121.jpg?lm=4711",
+    "name": "Malcom Bokele",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 833315,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/novatus-miroshi-goztepe-2026-1770645054-189248.jpg?lm=4711",
+    "name": "Novatus Miroshi",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 432982,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andreas-skov-olsen-basaksehir-1789911714-206824.jpg?lm=4711",
+    "name": "Andreas Skov Olsen",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 586834,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jesurun-rak-sakyi-caykur-rizespor-1768313766-187103.jpg?lm=4711",
+    "name": "Jesurun Rak-Sakyi",
+    "value": 5000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 594991,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mohamed-bayo-gaziatep-2025-2026-1772706399-191016.jpg?lm=4711",
+    "name": "Mohamed Bayo",
+    "value": 4500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 225083,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ngolo-kante-fenerbahce-2025-2026-1773823260-192333.png?lm=4711",
+    "name": "N'Golo Kanté",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 231572,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nelson-semedo-fenerbahce-1788187097-204978.jpeg?lm=4711",
+    "name": "Nélson Semedo",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 889136,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yigit-efe-demir-fenerbahce-2025-1765537286-185057.jpeg?lm=4711",
+    "name": "Yiğit Efe Demir",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 703720,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mithat-pala-rizespor-2025-2026-1777536275-195892.jpeg?lm=4711",
+    "name": "Mithat Pala",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 472873,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/logi-tomasson-samsunspor-2025-1762505298-182264.jpg?lm=4711",
+    "name": "Logi Tómasson",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 579284,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/joe-mendes-samsunspor-2026-2027-1787577092-204451.jpg?lm=4711",
+    "name": "Joe Mendes",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 745427,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/745427-1791551312.jpg?lm=4711",
+    "name": "Gabriele Guarino",
+    "value": 4000000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 1178476,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/antoine-sekongo-samsunspor-2026-2027-1785853433-203638.jpg?lm=4711",
+    "name": "Antoine Sekongo",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 390379,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mustafa-eskihellac-trabzonspor-2026-2027-1-1787558055-204406.jpg?lm=4711",
+    "name": "Mustafa Eskihellaç",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 433181,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tino-anjorin-torino-2025-2026-1778408010-196574.jpg?lm=4711",
+    "name": "Tino Anjorin",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 745233,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/taha-altikardes-goztepe-1732542923-154984.jpg?lm=4711",
+    "name": "Taha Altıkardeş",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2832.png?lm=1789459320",
+    "id": 614742,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/drissa-camara-gaziantep-fk-1765222677-184562.jpg?lm=4711",
+    "name": "Drissa Camara",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 517376,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yusuf-sari-basaksehir-1748954745-169252.jpg?lm=4711",
+    "name": "Yusuf Sarı",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 655902,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/emin-bayram-basaksehir-1789912603-206828.jpeg?lm=4711",
+    "name": "Emin Bayram",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 1071742,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/adem-arous-kasimpasa-1777044038-195527.jpg?lm=4711",
+    "name": "Adem Arous",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 1053933,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ruan-duarte-alanyaspor-2026-2027-1787234855-204203.jpg?lm=4711",
+    "name": "Ruan",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12382.png?lm=1789459801",
+    "id": 673382,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yira-sor-amed-sk-1789901480-206798.jpeg?lm=4711",
+    "name": "Yira Sor",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 467720,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/youssoufa-moukoko-corum-fk-2026-2027-1792409274-209658.jpg?lm=4711",
+    "name": "Youssoufa Moukoko",
+    "value": 4000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 535469,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/valentin-mihaila-rizespor-2025-2026-1-1775816340-194339.jpg?lm=4711",
+    "name": "Valentin Mihăilă",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 170934,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lamine-yamal-mario-lemina-galatasaray-1791970542-209290.jpg?lm=4711",
+    "name": "Mario Lemina",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 926953,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/oskar-ohlenschlaeger-samsunspor-2026-2027-1787657250-204508.jpg?lm=4711",
+    "name": "Oskar Øhlenschlæger",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 783094,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/benjamin-bouchouari-trabzonspor-2026-2027-1787038013-203956.jpg?lm=4711",
+    "name": "Benjamin Bouchouari",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/820.png?lm=1789459213",
+    "id": 479638,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tiago-gouveia-genclerbirligi-2026-2027-1787563305-204420.jpg?lm=4711",
+    "name": "Tiago Gouveia",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 882568,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/deniz-ertas-konyaspor-1766762078-186111.jpg?lm=4711",
+    "name": "Deniz Ertaş",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 330871,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/muhammed-sengezer-basaksehir-2025-2026-1755160699-174792.jpg?lm=4711",
+    "name": "Muhammed Şengezer",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12382.png?lm=1789459801",
+    "id": 309977,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/samuel-ballet-amed-sk-2026-2027-1791796735-209108.jpg?lm=4711",
+    "name": "Samuel Ballet",
+    "value": 3500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 655895,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/bartug-elmaz-fenerbahce-2026-2027-1789115106-205955.jpg?lm=4711",
+    "name": "Bartuğ Elmaz",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 1050215,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/goncalo-sousa-kocaelispor-1789904612-206815.jpeg?lm=4711",
+    "name": "Gonçalo Sousa",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 452084,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ahmed-kutucu-rizespor-2026-2027-1-1787577823-204454.jpg?lm=4711",
+    "name": "Ahmed Kutucu",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 459988,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gennaro-borrelli-cagliari-2025-2026-1778415280-196589.jpg?lm=4711",
+    "name": "Gennaro Borrelli",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 616885,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/taha-sahin-caykur-rizespor-1789742734-206683.jpeg?lm=4711",
+    "name": "Taha Şahin",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 615350,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cenk-ozkacar-trabzonspor-1790949302-208238.jpg?lm=4711",
+    "name": "Cenk Özkacar",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/820.png?lm=1789459213",
+    "id": 530851,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/franco-tongya-genclerbirligi-2025-2026-1760969824-180844.jpg?lm=4711",
+    "name": "Franco Tongya",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/820.png?lm=1789459213",
+    "id": 1489506,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ousmane-diabate-genclerbirligi-2025-2026-1787151660-204132.jpg?lm=4711",
+    "name": "Ousmane Diabate",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 1024605,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andre-henrique-goztepe-2026-2027-1791891371-209200.jpg?lm=4711",
+    "name": "André Henrique",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 354173,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/adil-demirbag-konyaspor-2025-1742220762-163642.jpg?lm=4711",
+    "name": "Adil Demirbağ",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2832.png?lm=1789459320",
+    "id": 485582,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sontje-hansen-gaziantep-fk-2026-2027-1787296544-204225.jpg?lm=4711",
+    "name": "Sontje Hansen",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 422203,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/amine-harit-umut-gunes-basaksehir-1766436814-185905.jpg?lm=4711",
+    "name": "Umut Güneş",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 469976,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/christopher-operi-basaksehir-2026-2027-1787231457-204186.jpg?lm=4711",
+    "name": "Christopher Operi",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 464446,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andri-fannar-baldursson-kasimpasa-2025-2026-1-1754903705-174519.jpg?lm=4711",
+    "name": "Andri Fannar Baldursson",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 836336,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nuno-lima-alanyaspor-1789894592-206767.jpeg?lm=4711",
+    "name": "Nuno Lima",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12382.png?lm=1789459801",
+    "id": 357117,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alban-lafont-amed-sk-1789898929-206783.jpg?lm=4711",
+    "name": "Alban Lafont",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 341647,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cengiz-under-corum-fk-2026-2027-1791796913-209112.jpg?lm=4711",
+    "name": "Cengiz Ünder",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 586538,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alexandros-kyziridis-corum-fk-2026-2027-2-1791796826-209110.jpg?lm=4711",
+    "name": "Alexandros Kyziridis",
+    "value": 3000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 549966,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jackson-muleka-konyaspor-2025-2026-1771835473-190237.jpg?lm=4711",
+    "name": "Jackson Muleka",
+    "value": 2800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 216603,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/irfan-can-kahveci-fenerbahce-2026-2027-1791792594-209098.jpg?lm=4711",
+    "name": "İrfan Can Kahveci",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/36.png?lm=1789459168",
+    "id": 851551,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ognjen-mimovic-zenit-2024-2025-1744278578-165496.jpg?lm=4711",
+    "name": "Ognjen Mimović",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 291739,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/milot-rashica-besiktas-2025-2026-1765273732-184635.jpg?lm=4711",
+    "name": "Milot Rashica",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 469787,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/berkan-kutlu-kocaelispor-1789904455-206814.jpg?lm=4711",
+    "name": "Berkan Kutlu",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 290552,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/qazim-laci-rizespor-2025-2026-1775816291-194338.jpg?lm=4711",
+    "name": "Qazim Laci",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 986258,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/siaka-bakayoko-caykur-rizespor-1789742578-206680.jpeg?lm=4711",
+    "name": "Siaka Bakayoko",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 697149,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kazimcan-karatas-galatasaray-2026-2027-1787041590-203977.jpg?lm=4711",
+    "name": "Kazımcan Karataş",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 403574,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/elliot-watt-samsunspor-2026-2027-1784540634-202546.jpg?lm=4711",
+    "name": "Elliot Watt",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 704970,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/igor-drapinski-piast-gliwice-1781880214-200421.jpg?lm=4711",
+    "name": "Igor Drapiński",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/820.png?lm=1789459213",
+    "id": 402010,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sekou-keita-genclerbirligi-1766431014-185901.jpg?lm=4711",
+    "name": "Sékou Koïta",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 724532,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/sinclair-armstrong-goztepe-2026-1780560429-199043.jpeg?lm=4711",
+    "name": "Sinclair Armstrong",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 391555,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/melih-ibrahimoglu-konyaspor-2025-2026-1761576787-181391.jpg?lm=4711",
+    "name": "Melih İbrahimoğlu",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 1138547,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/rajmund-toth-konyaspor-2026-2027-1787062828-204035.jpg?lm=4711",
+    "name": "Rajmund Tóth",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2832.png?lm=1789459320",
+    "id": 962555,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/abakar-sylla-gaziantep-fk-1789459618-206365.jpg?lm=4711",
+    "name": "Abakar Sylla",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 699418,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jakub-kaluzinski-basaksehir-1789912792-206830.jpeg?lm=4711",
+    "name": "Jakub Kaluzinski",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 1193794,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/saba-kharebashvili-basaksehir-1789912088-206826.jpeg?lm=4711",
+    "name": "Saba Kharebashvili",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 615930,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/matei-ilie-kasimpasa-2026-2027-1781532186-199962.jpg?lm=4711",
+    "name": "Matei Ilie",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 629637,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kvin-mouanga-kasimpaa-2026-2027-1787735284-204548.jpg?lm=4711",
+    "name": "Kévin Mouanga",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 1045547,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ayberk-karapo-kasimpasa-2026-2027-1783584467-201908.jpg?lm=4711",
+    "name": "Ayberk Karapo",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 320141,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/caglar-soyuncu-cengiz-under-corum-fk-1789982798-206913.jpg?lm=4711",
+    "name": "Çağlar Söyüncü",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 723826,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/andrei-borza-corum-fk-1789981389-206903.jpg?lm=4711",
+    "name": "Andrei Borza",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 268112,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gyrano-kerk-erzurumspor-fk-2026-2027-1785494956-203412.jpg?lm=4711",
+    "name": "Gyrano Kerk",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 395695,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/elisha-owusu-erzurumspor-2026-2027-1-1788769137-205556.jpg?lm=4711",
+    "name": "Elisha Owusu",
+    "value": 2500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 619657,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tobias-gulliksen-kocaelispor-1789902480-206802.jpeg?lm=4711",
+    "name": "Tobias Gulliksen",
+    "value": 2200000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 892611,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ali-habesoglu-turkiye-u21-1791287601-208581.jpg?lm=4711",
+    "name": "Ali Habeşoğlu",
+    "value": 2200000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 461951,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/kartal-yilmaz-besiktas-2026-2027-1787905507-204714.jpg?lm=4711",
+    "name": "Kartal Yılmaz",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/114.png?lm=1789459174",
+    "id": 576033,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dogan-alemdar-besiktas-1783605371-201953.jpeg?lm=4711",
+    "name": "Doğan Alemdar",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 621603,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/metehan-altunbas-kocaelispor-2026-2027-1788168495-204921.jpg?lm=4711",
+    "name": "Metehan Altunbaş",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 406609,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/can-bozdogan-caykur-rizespor-1789742357-206677.jpeg?lm=4711",
+    "name": "Can Bozdogan",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 496996,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/attila-mocsi-rizespor-2025-2026-1776426781-194947.jpg?lm=4711",
+    "name": "Attila Mocsi",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 524925,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/modibo-sagnan-rizespor-2025-2026-2-1773053879-191321.jpg?lm=4711",
+    "name": "Modibo Sagnan",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 672597,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ibrahim-olawoyin-rizespor-2025-2026-1772454531-190732.jpg?lm=4711",
+    "name": "Ibrahim Olawoyin",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 982403,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/zakaria-ariss-caykur-rizespor-1789743846-206694.jpeg?lm=4711",
+    "name": "Zakaria Ariss",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 727077,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jankat-yilmaz-galatasaray-2026-2027-1-1788166527-204915.jpg?lm=4711",
+    "name": "Jankat Yılmaz",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 204189,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/okan-kocuk-samsunspor-2025-2026-1772805440-191144.jpg?lm=4711",
+    "name": "Okan Kocuk",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 375378,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/afonso-sousa-samsunspor-2025-2026-2-1776162441-194630.jpg?lm=4711",
+    "name": "Afonso Sousa",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 1066904,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jaures-assoumou-samsunspor-2025-2026-1769865607-188481.jpg?lm=4711",
+    "name": "Jaurès Assoumou",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 207877,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ruslan-malinovskyi-trabzonspor-2026-2027-1-1787037530-203953.jpg?lm=4711",
+    "name": "Ruslan Malinovskyi",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/820.png?lm=1789459213",
+    "id": 644032,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cheikh-niasse-genclerbirligi-1790332606-207446.jpeg?lm=4711",
+    "name": "Cheikh Niasse",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 258015,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/diogo-goncalves-konyaspor-2025-2026-1-1776067462-194530.jpg?lm=4711",
+    "name": "Diogo Gonçalves",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 295955,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ugurcan-yazgili-konyaspor-1728297695-150542.png?lm=4711",
+    "name": "Uğurcan Yazğılı",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 358143,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/chidozie-awaziem-konyaspor-2025-2026-1785396491-203328.jpg?lm=4711",
+    "name": "Chidozie Awaziem",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 462348,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/mostafa-mohamed-konyaspor-2026-2027-1788276131-205067.jpg?lm=4711",
+    "name": "Mostafa Mohamed",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 243725,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/olivier-kemen-basaksehir-1715068167-135906.jpg?lm=4711",
+    "name": "Olivier Kemen",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 432752,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ivan-brnic-basaksehir-2025-1766437041-185906.jpg?lm=4711",
+    "name": "Ivan Brnic",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/7160.png?lm=1789459533",
+    "id": 976840,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/charles-andre-raux-yao-eyupspor-2026-2027-1-1788168304-204920.jpg?lm=4711",
+    "name": "Charles-André Raux-Yao",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 922828,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/thiemoko-diarra-kasimpasa-2026-2027-1784208321-202389.jpg?lm=4711",
+    "name": "Thiemoko Diarra",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 450173,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gaius-makouta-alanyaspor-1789893096-206755.jpeg?lm=4711",
+    "name": "Gaius Makouta",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 652426,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yusuf-ozdemir-alanyaspor-1728295189-150526.jpg?lm=4711",
+    "name": "Yusuf Özdemir",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 981928,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arda-usluoglu-alanyaspor-2026-1789894349-206765.jpeg?lm=4711",
+    "name": "Arda Usluoğlu",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12382.png?lm=1789459801",
+    "id": 542469,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lumbardh-dellova-amed-2026-2027-2-1788269573-205049.jpg?lm=4711",
+    "name": "Lumbardh Dellova",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 483063,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/berat-ozdemir-corum-fk-2026-2027-1791796871-209111.jpg?lm=4711",
+    "name": "Berat Özdemir",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 571299,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hrvoje-smolcic-kocaelispor-1766402049-185818.jpg?lm=4711",
+    "name": "Hrvoje Smolcic",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 655912,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/goktan-gurpuz-genclerbirligi-1766415430-185864.jpg?lm=4711",
+    "name": "Göktan Gürpüz",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 865793,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/nariman-akhundzada-1770823260-189458.jpg?lm=4711",
+    "name": "Nariman Akhundzada",
+    "value": 2000000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 361032,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/bilal-bayazit-samsunspor-2026-2027-1783331723-201634.jpg?lm=4711",
+    "name": "Bilal Bayazıt",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 743376,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/cihan-canak-genclerbirligi-2025-2026-1770107929-188730.jpg?lm=4711",
+    "name": "Cihan Çanak",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 699980,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/enis-destan-trabzonspor-1708339869-129697.jpg?lm=4711",
+    "name": "Enis Destan",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 401604,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/michal-karbownik-basaksehir-2026-2027-1782134671-200598.jpg?lm=4711",
+    "name": "Michal Karbownik",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 944822,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/marcus-rafferty-kasimpasa-2026-2027-1782914888-201334.jpg?lm=4711",
+    "name": "Marcus Rafferty",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 1173606,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/elson-mendes-kasimpasa-2026-2027-1781165520-199634.jpg?lm=4711",
+    "name": "Elson Mendes",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 238809,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/florent-hadergjonaj-alanyaspor-2024-2025-1739285415-160879.jpg?lm=4711",
+    "name": "Florent Hadergjonaj",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 282076,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ianis-hagi-alanyaspor-1759735437-179561.jpg?lm=4711",
+    "name": "Ianis Hagi",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 442703,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ylber-ramadani-hasan-abdulkareem-corum-fk-1789982611-206910.jpg?lm=4711",
+    "name": "Ylber Ramadani",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 519882,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/markus-karlsbakk-corum-fk-2026-2027-1787234473-204197.jpg?lm=4711",
+    "name": "Markus Karlsbakk",
+    "value": 1800000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 568216,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/show-kocaelispor-1766402461-185821.jpg?lm=4711",
+    "name": "Show",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 719672,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/adedire-mebude-caykur-rizespor-1789743024-206687.jpeg?lm=4711",
+    "name": "Adedire Mebude",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 1050693,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/iustin-doicaru-caykur-rizespor-1789742161-206675.png?lm=4711",
+    "name": "Iustin Doicaru",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/141.png?lm=1789459175",
+    "id": 53622,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ilkay-gundogan-galatasaray-2025-2026-2-1772609622-190896.jpg?lm=4711",
+    "name": "İlkay Gündoğan",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 462086,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/elayis-tavsan-samsunspor-2025-2026-1772620710-190920.jpg?lm=4711",
+    "name": "Elayis Tavsan",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/152.png?lm=1789459175",
+    "id": 1494766,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/saikuba-jarju-samsunspor-2026-1768314065-187108.jpg?lm=4711",
+    "name": "Saikuba Jarju",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/449.png?lm=1787748980",
+    "id": 236471,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ozan-tufan-trabzonspor-2025-2026-1-1765277893-184646.jpeg?lm=4711",
+    "name": "Ozan Tufan",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/820.png?lm=1789459213",
+    "id": 618869,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/metehan-baltaci-genclerbirligi-2026-2027-1787558933-204409.jpg?lm=4711",
+    "name": "Metehan Baltacı",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 346898,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alexis-antunes-goztepe-2025-2026-1766045719-185497.jpeg?lm=4711",
+    "name": "Alexis Antunes",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 670850,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/alex-matos-goztepe-2026-2027-1787232471-204191.png?lm=4711",
+    "name": "Alex Matos",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/1467.png?lm=1789459252",
+    "id": 1081721,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/richard-akonnor-goztepe-2026-2027-1787297238-204226.jpg?lm=4711",
+    "name": "Richard Akonnor",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 181380,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/arthuar-masuaku-besiktas-2025-1743751704-165079.jpg?lm=4711",
+    "name": "Arthur Masuaku",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 245014,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/enis-bardhi-konyaspor-2025-2026-2-1761575193-181388.png?lm=4711",
+    "name": "Enis Bardhi",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2293.png?lm=1789459289",
+    "id": 291222,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/jean-luc-dompe-hamburger-sv-2026-1772900892-191204.jpg?lm=4711",
+    "name": "Jean-Luc Dompé",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2832.png?lm=1789459320",
+    "id": 348863,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/bacuna-juninho-2026-curacao-1780665319-199255.jpg?lm=4711",
+    "name": "Juninho Bacuna",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2832.png?lm=1789459320",
+    "id": 379209,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/deian-sorescu-gaziantep-fk-1728295873-150531.jpg?lm=4711",
+    "name": "Deian Sorescu",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2832.png?lm=1789459320",
+    "id": 581447,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ulrich-meleke-gaziantep-fk-2026-2027-1785330155-203273.jpg?lm=4711",
+    "name": "Ulrich Meleke",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/2832.png?lm=1789459320",
+    "id": 880054,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/trivante-stewart-gaziantep-fk-2026-2027-1785333877-203280.jpg?lm=4711",
+    "name": "Trivante Stewart",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 178459,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/davie-selke-basaksehir-2025-2026-3-1777293201-195668.jpg?lm=4711",
+    "name": "Davie Selke",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 259025,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/umut-bozok-basaksehir-2026-2027-1785330977-203275.jpg?lm=4711",
+    "name": "Umut Bozok",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 842465,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/deniz-dilmen-basaksehir-2026-1789911927-206825.jpeg?lm=4711",
+    "name": "Deniz Dilmen",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/6890.png?lm=1789459518",
+    "id": 988247,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/hamza-gureler-basaksehir-1766419877-185885.jpg?lm=4711",
+    "name": "Hamza Güreler",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/7160.png?lm=1789459533",
+    "id": 525438,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/horatiu-moldovan-eyupspor-1789896174-206774.jpeg?lm=4711",
+    "name": "Horațiu Moldovan",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/7160.png?lm=1789459533",
+    "id": 1015619,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ahmed-abdullahi-sunderland-2025-1064510213-1785849677-203632.jpg?lm=4711",
+    "name": "Ahmed Abdullahi",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/10484.png?lm=1789459717",
+    "id": 364244,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/godfried-frimpong-kasimpasa-1777043150-195521.jpg?lm=4711",
+    "name": "Godfried Frimpong",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 423678,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/meschack-elia-alanyaspor-2026-1789894022-206763.jpg?lm=4711",
+    "name": "Meschack Elia",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 712127,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ibrahim-kaya-alanyaspor-1074247097h-1789895172-206772.jpg?lm=4711",
+    "name": "İbrahim Kaya",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 716163,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ivan-cedric-alanyaspor-1789893307-206757.jpg?lm=4711",
+    "name": "Iván Cédric",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/11282.png?lm=1789459756",
+    "id": 988710,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/baran-gezek-alanyaspor-1789894759-206769.jpg?lm=4711",
+    "name": "Baran Gezek",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12382.png?lm=1789459801",
+    "id": 269171,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/gokhan-gul-amed-sk-1789899243-206786.jpeg?lm=4711",
+    "name": "Gökhan Gül",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/12382.png?lm=1789459801",
+    "id": 272539,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/david-bates-amed-sk-1789899187-206785.jpeg?lm=4711",
+    "name": "David Bates",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/37951.png?lm=1789461405",
+    "id": 655899,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/serdar-saatci-corum-fk-1789982160-206907.jpg?lm=4711",
+    "name": "Serdar Saatçı",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 358025,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/brandon-baiye-clermont-foot-63-1628084173-68287.jpg?lm=4711",
+    "name": "Brandon Baiye",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 586756,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/festy-ebosele-basaksehir-1766421112-185891.jpg?lm=4711",
+    "name": "Festy Ebosele",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 618887,
+    "image": "https://img.a.transfermarkt.technology/portrait/header/618887-1789478100.png?lm=4711",
+    "name": "Mustafa Fettahoğlu",
+    "value": 1500000,
+    "fallback": true
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 620696,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/ibrahim-diabate-gais-1755680136-175258.jpg?lm=4711",
+    "name": "Ibrahim Diabate",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 733410,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/lawrence-agyekum-cercle-2025-1747316522-167949.jpg?lm=4711",
+    "name": "Lawrence Agyekum",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/39722.png?lm=1789461533",
+    "id": 872080,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/yakup-kirtay-erzurumspor-2024-2025-1752738966-172581.jpg?lm=4711",
+    "name": "Yakup Kırtay",
+    "value": 1500000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 256358,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/bruno-petkovic-kocaelispor-1766405579-185841.jpg?lm=4711",
+    "name": "Bruno Petkovic",
+    "value": 1200000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 367195,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dan-agyei-kocaelispor-1762768215-182481.jpeg?lm=4711",
+    "name": "Dan Agyei",
+    "value": 1200000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 428302,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/anfernee-dijksteel-kocaelispor-1766405067-185838.jpg?lm=4711",
+    "name": "Anfernee Dijksteel",
+    "value": 1200000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 433388,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/matej-maglica-kocaelispor-2026-2027-1787646660-204490.jpg?lm=4711",
+    "name": "Matej Maglica",
+    "value": 1200000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/120.png?lm=1789459175",
+    "id": 917120,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/tanguy-zoukrou-kocaelispor-1789902442-206801.jpeg?lm=4711",
+    "name": "Tanguy Zoukrou",
+    "value": 1200000,
+    "fallback": false
+  },
+  {
+    "club": "https://img.a.transfermarkt.technology/wappen/medium/126.png?lm=1789459175",
+    "id": 433105,
+    "image": "https://img.a.transfermarkt.technology/foto/galerie/dal-varesanovic-caykur-rizespor-1789742440-206678.jpeg?lm=4711",
+    "name": "Dal Varesanovic",
+    "value": 1200000,
+    "fallback": false
+  }
+]
