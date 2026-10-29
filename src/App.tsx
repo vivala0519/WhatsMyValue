@@ -190,15 +190,14 @@ export default function App() {
                 </section>
                 <section className="edition-section" aria-labelledby="edition-title">
                     <div className="section-heading">
-                        <div><p className="eyebrow muted">무대 선택</p><h2 id="edition-title">어느 리그에 자신 있나요?</h2></div>
                         <div className="difficulty-control" role="group" aria-label="난이도">
                             <button aria-pressed={difficulty === 'easy'} onClick={() => setDifficulty('easy')}>쉬움
                             </button>
                             <button aria-pressed={difficulty === 'hard'} onClick={() => setDifficulty('hard')}>어려움
                             </button>
                         </div>
+                        <span className="difficulty-hint">{difficulty === 'easy' ? '높다 · 낮다 중 선택해요.' : '높다 · 같다 · 낮다 중 선택해요.'}</span>
                     </div>
-                    <p className="difficulty-hint">{difficulty === 'easy' ? '높다 · 낮다 중 선택해요. 같은 몸값의 선수끼리는 출제하지 않아요.' : '높다 · 같다 · 낮다 중 선택해요. 같은 몸값도 정확히 맞혀야 해요.'}</p>
                     <div className="edition-grid">{editions.map(item => <button key={item.id}
                                                                                 className={`edition-card ${edition === item.id ? 'selected' : ''}`}
                                                                                 onClick={() => setEdition(item.id)}
@@ -206,7 +205,7 @@ export default function App() {
                         <LeagueMark edition={item.id} mark={item.mark} color={item.color}/><span
                         className="edition-info"><span className="edition-name">{item.name}{item.tag &&
                         <span className="edition-tag">{item.tag}</span>}</span><span
-                        className="edition-meta">{item.subtitle} <span>· {getPool(item.id).length}명</span></span></span>
+                        className="edition-meta">{item.subtitle}</span></span>
                         <span className="selection-indicator">{edition === item.id &&
                             <Icon name="check" size={16}/>}</span>
                     </button>)}</div>
@@ -216,13 +215,6 @@ export default function App() {
                             방법
                         </button>
                     </div>
-                </section>
-                <section className="how-strip" aria-label="게임 진행 방법">
-                    <div><span>01</span><p>기준 선수의 <strong>몸값 확인</strong></p></div>
-                    <Icon name="arrow" size={18}/>
-                    <div><span>02</span><p>다음 선수의 <strong>몸값 예측</strong></p></div>
-                    <Icon name="arrow" size={18}/>
-                    <div><span>03</span><p>정답을 이어 <strong>기록 도전</strong></p></div>
                 </section>
             </>}
 

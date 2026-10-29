@@ -94,15 +94,21 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .preview-vs { display: grid; place-items: center; position: absolute; top: 46%; left: 50%; transform: translate(-50%,-50%) rotate(-7deg); width: 48px; height: 48px; border-radius: 50%; background: var(--paper); border: 4px solid var(--paper); z-index: 3; font: 700 17px Arial, sans-serif; color: var(--ink); box-shadow: 0 3px 12px #112a2320; }
 .preview-sticker { display: flex; align-items: center; justify-content: center; gap: 10px; position: absolute; bottom: -4px; left: 50%; transform: translateX(-50%) rotate(-5deg); white-space: nowrap; background: var(--green); color: var(--green-dark); padding: 7px 16px; font-size: 13px; font-weight: 600; border-radius: 6px; box-shadow: 0 5px 12px #17302615; }
 .edition-section { margin-top: 17px; }
-.section-heading { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.section-heading { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 15px; }
 .muted { color: var(--muted); }
 .section-heading h2 { font-size: 24px; letter-spacing: -.8px; margin-top: 4px; }
 .difficulty-control { display: flex; padding: 4px; background: #e9ede4; border-radius: 9px; flex-shrink: 0; gap: 3px; }
 .difficulty-control button { min-width: 76px; min-height: 44px; border-radius: 6px; font-size: 14px; padding: 7px 15px; color: var(--muted); }
 .difficulty-control button[aria-pressed=true] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 5px #10251d12; font-weight: 600; }
 .difficulty-control button:hover { color: var(--green-dark); }
-.difficulty-hint { margin: 8px 0 18px; color: var(--muted); font-size: 13px; }
+.difficulty-hint { color: var(--muted); font-size: 13px; }
 .edition-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 12px; }
+/* 모바일: 한 줄에 1개 */
+@media (max-width: 768px) {
+  .edition-grid {
+    grid-template-columns: 1fr;
+  }
+}
 .edition-card { display: flex; align-items: center; text-align: left; padding: 15px 18px; gap: 14px; border: 1px solid var(--line); border-radius: 11px; background: var(--surface); min-height: 90px; }
 .edition-card.selected { border-color: #739b4e; background: #edf4e3; box-shadow: 0 0 0 1px #739b4e; }
 .edition-card:hover { border-color: #739b4e; transform: translateY(-2px); }
@@ -301,16 +307,16 @@ svg { flex-shrink: 0; vertical-align: middle; }
   .preview-vs { display: none; }
   .preview-sticker { display: none; }
   .edition-section { margin-top: 16px; }
-  .section-heading { gap: 8px; align-items: flex-end; }
+  .section-heading { gap: 8px; justify-content: flex-start}
   .section-heading .eyebrow { font-size: 12px; }
   .section-heading h2 { font-size: 21px; letter-spacing: -1px; line-height: 1.4; }
   .difficulty-control { padding: 3px; gap: 0; }
   .difficulty-control button { min-width: 53px; padding: 6px 8px; min-height: 44px; font-size: 13px; }
-  .difficulty-hint { font-size: 13px; margin-bottom: 15px; line-height: 1.7; }
-  .edition-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 9px; }
+  .difficulty-hint { font-size: 13px; line-height: 1.7; }
+  /*.edition-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 9px; }*/
   .edition-card { min-height: 85px; padding: 12px 10px; gap: 8px; }
   .edition-card:first-child { grid-column: 1/-1; min-height: 78px; }
-  .edition-card:first-child .edition-info { display: flex; justify-content: space-between; align-items: center; padding-right: 10px; gap: 8px; }
+  .edition-card .edition-info { display: flex; justify-content: flex-start; align-items: center; padding-right: 10px; gap: 8px; }
   .edition-card:first-child .edition-meta { margin-top: 0; }
   .league-mark { width: 31px; height: 37px; }
   .edition-name { flex-wrap: wrap; font-size: 14px; line-height: 1.6; gap: 1px 5px; }
