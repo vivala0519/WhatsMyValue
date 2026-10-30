@@ -68,7 +68,8 @@ function PlayerPhoto({player}: { player: Player }) {
 
 export default function App() {
     const showInterstitial = useInterstitialAd()
-    const adShownForGame = useRef(false)
+    const [adPending, setAdPending] = useState(false)
+    const restarting = useRef(false)
     const [edition, setEdition] = useState<EditionId>('world')
     const [difficulty, setDifficulty] = useState<Difficulty>('easy')
     const [records, setRecords] = useState(readRecords)
@@ -84,7 +85,6 @@ export default function App() {
     const allTimeBest = Math.max(0, ...Object.values(records.best))
 
     function start() {
-        adShownForGame.current = false
         finishedSaved.current = false
         setPreviousBest(best)
         setMatch(newMatch(getPool(edition), Math.random, difficulty))
@@ -125,11 +125,16 @@ export default function App() {
         setSaveFailed(!writeRecords(next))
     }, [match, best, difficulty, edition, records])
 
-    useEffect(() => {
-        if (match?.phase !== 'finished' || adShownForGame.current) return
-        adShownForGame.current = true
-        showInterstitial.current()
-    }, [match?.phase, showInterstitial])
+    function restartWithAd() {
+        if (restarting.current) return
+        restarting.current = true
+        setAdPending(true)
+        showInterstitial.current(() => {
+            restarting.current = false
+            setAdPending(false)
+            start()
+        })
+    }
 
     useEffect(() => {
         if (!match || modal || match.phase !== 'guessing') return
@@ -276,7 +281,7 @@ export default function App() {
             {screen === 'result' && match && <section className="result-screen">
                 <div className="result-top"><span className="brand"><span className="brand-symbol"><Icon name="ball"
                                                                                                          size={24}/></span>몸값 대결</span>
-                    <button className="icon-button" aria-label="무대 선택으로" onClick={home}><Icon name="close"/></button>
+                    <button className="icon-button" aria-label="무대 선택으로" disabled={adPending} onClick={home}><Icon name="close"/></button>
                 </div>
                 <div className="result-card">
                     <div className="result-trophy"><Icon name="trophy" size={42}/></div>
@@ -293,8 +298,9 @@ export default function App() {
                             className="last-versus">VS</span>
                         <p>{match.right.name}<strong>{formatValue(match.right.value)}</strong></p></div>
                     <div className="result-actions">
-                        <button className="primary" onClick={start}><Icon name="repeat" size={20}/>다시 도전하기</button>
-                        <button className="secondary" onClick={home}><Icon name="grid" size={18}/>다른 무대 고르기</button>
+                        <p className="result-edition">다시 도전하면 전면 광고가 표시될 수 있어요.</p>
+                        <button className="primary" disabled={adPending} onClick={restartWithAd}><Icon name="repeat" size={20}/>{adPending ? '광고를 여는 중이에요' : '광고 보고 다시 도전하기'}</button>
+                        <button className="secondary" disabled={adPending} onClick={home}><Icon name="grid" size={18}/>다른 무대 고르기</button>
                         <button className="text-button share-button" onClick={share}><Icon name="share" size={18}/>결과
                             공유하기
                         </button>

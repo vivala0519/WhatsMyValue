@@ -1,5 +1,9 @@
+@font-face { font-family: Giants; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-1@1.1/Giants-Regular.woff2') format('woff2'); font-weight: 400; font-display: swap; }
+@font-face { font-family: Giants; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-1@1.1/Giants-Bold.woff2') format('woff2'); font-weight: 700; font-display: swap; }
+@font-face { font-family: DNFForgedBlade; src: url('https://cdn.df.nexon.com/img/common/font/DNFForgedBlade-Medium.otf') format('opentype'); font-weight: 400 500; font-display: swap; }
+@font-face { font-family: DNFForgedBlade; src: url('https://cdn.df.nexon.com/img/common/font/DNFForgedBlade-Bold.otf') format('opentype'); font-weight: 600 900; font-display: swap; }
 :root {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Malgun Gothic', sans-serif;
+  font-family: DNFForgedBlade, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Malgun Gothic', sans-serif;
   color: #191f28;
   background: #f7f8fa;
   font-synthesis: none;
@@ -66,7 +70,7 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .shirt-stage .jersey { width: 265px; position: relative; z-index: 1; }
 .player-photo { position: absolute; z-index: 2; inset: 8px 20px 0; width: calc(100% - 40px); height: calc(100% - 8px); object-fit: cover; object-position: center 25%; border-radius: 12px; opacity: 0; transition: opacity .2s ease; }
 .player-photo.loaded { opacity: 1; }
-.shirt-number { position: absolute; top: -38px; left: 50%; transform: translateX(-50%); font-size: 230px; line-height: 1.3; font-weight: 700; color: #ffffff06; letter-spacing: -10px; font-family: Arial, sans-serif; }
+.shirt-number { position: absolute; top: -38px; left: 50%; transform: translateX(-50%); font-size: 230px; line-height: 1.3; font-weight: 700; color: #ffffff06; letter-spacing: -10px; font-family: inherit; }
 .player-info { position: relative; text-align: center; padding: 8px 30px 28px; }
 .player-club { font-size: 13px; color: #c2d0cb; margin-bottom: 4px; }
 .player-info h2 { font-size: 30px; line-height: 1.4; letter-spacing: -1px; }
@@ -127,6 +131,8 @@ svg { flex-shrink: 0; vertical-align: middle; }
 /* Match */
 .screen-game { background: #f2f5ee; }
 .screen-game .shell { max-width: 1030px; }
+.hero-copy h1, .game-heading h1 { font-family: DNFForgedBlade, sans-serif; }
+.shirt-number, .current-score strong, .arena .versus { font-family: inherit; }
 .game-heading { display: flex; justify-content: space-between; align-items: center; padding: 12px 0 18px; gap: 16px; }
 .game-heading h1 { font-size: 27px; letter-spacing: -1px; line-height: 1.4; margin-top: 5px; outline: 0; }
 .game-tools { display: flex; gap: 9px; }
@@ -135,7 +141,7 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .scoreboard { display: flex; align-items: center; margin-bottom: 18px; padding: 12px 23px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; gap: 28px; }
 .current-score { display: flex; align-items: center; gap: 17px; }
 .current-score > span, .best-score > span { font-size: 13px; color: var(--muted); }
-.current-score strong { font-family: Arial, sans-serif; font-size: 30px; line-height: 1.2; font-variant-numeric: tabular-nums; }
+.current-score strong { font-family: inherit; font-size: 30px; line-height: 1.2; font-variant-numeric: tabular-nums; }
 .score-track { display: flex; gap: 5px; flex: 1; max-width: 250px; }
 .score-track i { display: block; height: 5px; border-radius: 6px; background: #e6ece0; flex: 1; }
 .score-track i.filled { background: #729f45; }
@@ -146,7 +152,7 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .arena .player-card { min-height: 474px; border: 2px solid transparent; }
 .arena .player-card.is-correct { border-color: #91c85a; }
 .arena .player-card.is-wrong { border-color: #d38e86; }
-.arena .versus { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 4; width: 62px; height: 62px; display: grid; place-items: center; color: var(--ink); background: var(--paper); border: 6px solid var(--paper); border-radius: 50%; font-family: Arial, sans-serif; font-size: 19px; font-weight: 700; }
+.arena .versus { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); z-index: 4; width: 62px; height: 62px; display: grid; place-items: center; color: var(--ink); background: var(--paper); border: 6px solid var(--paper); border-radius: 50%; font-family: inherit; font-size: 19px; font-weight: 700; }
 .arena .versus.correct { background: var(--green); color: var(--green-dark); }
 .arena .versus.wrong { background: #f2cbc4; color: #853c3c; }
 .answer-panel { text-align: center; padding-top: 22px; }
