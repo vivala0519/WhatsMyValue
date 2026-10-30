@@ -72,7 +72,7 @@ test('shuffle preserves inputs; invalid pools and easy equality are rejected', (
 })
 
 test('market values use the fixed euro-won rate without changing comparison inputs', () => {
-  assert.equal(formatValue(220), '3,276억 3,720만 원')
-  assert.equal(formatValue(.000001), '1,489원')
-  assert.equal(formatValue(0), '0원')
+  assert.equal(formatValue(220), '3,276억 원')
+  assert.equal(formatValue(.000001), '0억 원')
+  assert.equal(formatValue(0), '0억 원')
 })

@@ -1,11 +1,12 @@
 import {useEffect, useRef, useState} from 'react'
 import type {ReactNode} from 'react'
-import {editions, getPool, players} from './data'
+import {editions, getPool} from './data'
 import type {EditionId, Player} from './data'
 import {advance, answer, formatValue, newMatch} from './game'
 import type {Difficulty, Guess, Match} from './game'
 import {readRecords, recordKey, writeRecords} from './storage'
 import {Icon, Jersey, LeagueMark} from './Art'
+import {ParticleBall} from './ParticleBall'
 
 function Modal({title, onClose, children}: { title: string; onClose: () => void; children: ReactNode }) {
     const ref = useRef<HTMLDialogElement>(null)
@@ -25,15 +26,14 @@ function Modal({title, onClose, children}: { title: string; onClose: () => void;
     </dialog>
 }
 
-function PlayerCard({player, side, revealed, correct, preview = false}: {
+function PlayerCard({player, side, revealed, correct}: {
     player: Player;
     side: 'left' | 'right';
     revealed: boolean;
     correct?: boolean | null;
-    preview?: boolean
 }) {
     return <article
-        className={`player-card ${side} ${preview ? 'preview-card' : ''} ${revealed && side === 'right' ? (correct ? 'is-correct' : 'is-wrong') : ''}`}>
+        className={`player-card ${side} ${revealed && side === 'right' ? (correct ? 'is-correct' : 'is-wrong') : ''}`}>
         <div className="card-grain" aria-hidden="true"/>
         <div className="card-top"><span
             className="card-label">{side === 'left' ? '기준 선수' : '도전 선수'}</span><span>{player.country}</span></div>
@@ -43,7 +43,7 @@ function PlayerCard({player, side, revealed, correct, preview = false}: {
             <div className={`player-value ${revealed ? 'revealed' : 'hidden-value'}`}>
                 <span>시장가치</span>
                 <strong>{revealed ? formatValue(player.value) : <span aria-label="비공개">?</span>}</strong>
-                {!preview && <small>{revealed ? '' : '더 높을까요, 더 낮을까요?'}</small>}
+                <small>{revealed ? '' : '더 높을까요, 더 낮을까요?'}</small>
             </div>
         </div>
     </article>
@@ -173,19 +173,12 @@ export default function App() {
                 </div>
                 <section className="hero">
                     <div className="hero-copy"><h1>누가 더<br/> <span>비싸요?</span><span className="title-dot">.</span></h1>
-                        <p className="hero-description">이름값 말고, 시장가치. <br/>두 선수 중 몸값이 더 높은 선수를 맞혀보세요.</p>
+                        <p className="hero-description">두 선수 중 몸값이 더 높은 선수를 맞혀보세요.</p>
                         <button className="primary hero-start" onClick={start}>게임 시작하기<Icon name="arrow" size={20}/>
                         </button>
-                        <span
-                            className="hero-selected">{currentEdition.name} · {difficulty === 'easy' ? '쉬움' : '어려움'}</span>
                     </div>
-                    <div className="hero-preview" aria-label="게임 예시: 라민 야말과 킬리안 음바페의 시장가치 비교">
-                        <PlayerCard player={players.find(p => p.sourceId === 937958)!} side="left" revealed preview/>
-                        <span className="preview-vs">VS</span>
-                        <PlayerCard player={players.find(p => p.sourceId === 342229)!} side="right" revealed={false}
-                                    preview/>
-                        <span className="preview-sticker"><Icon name="up" size={17}/><span>당신의 선택은?</span><Icon
-                            name="down" size={17}/></span>
+                    <div className="hero-preview">
+                        <div className="hero-particle-ball"><ParticleBall theme="light"/></div>
                     </div>
                 </section>
                 <section className="edition-section" aria-labelledby="edition-title">
@@ -207,8 +200,8 @@ export default function App() {
                         className="edition-info"><span className="edition-name">{item.name}{item.tag &&
                         <span className="edition-tag">{item.tag}</span>}</span><span
                         className="edition-meta">{item.subtitle}</span></span>
-                        <span className="selection-indicator">{edition === item.id &&
-                            <Icon name="check" size={16}/>}</span>
+                        <span className="selection-indicator" aria-hidden="true">
+                            <Icon name="check" size={28}/></span>
                     </button>)}</div>
                     <div className="edition-bottom"><p><span className="tiny-dot"/>선택한
                         무대 <strong>{currentEdition.name}</strong><span className="divider-text">/</span>최고 {best}점</p>

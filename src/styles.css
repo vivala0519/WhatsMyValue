@@ -40,7 +40,7 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .record-button strong { margin-left: 12px; font-size: 17px; font-variant-numeric: tabular-nums; }
 .record-button svg { color: #577445; }
 .record-button:hover { border-color: #78946a; }
-.hero { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 40px; padding: 18px 40px 35px 15px; }
+.hero { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 40px; padding: 18px 40px 35px 15px; position: relative; }
 .eyebrow { display: flex; align-items: center; gap: 8px; color: var(--green-dark); font-size: 13px; font-weight: 600; letter-spacing: .4px; }
 .eyebrow > span:empty { width: 7px; height: 7px; background: #5d8a35; border-radius: 50%; }
 .hero h1 { font-size: clamp(48px, 5.3vw, 68px); letter-spacing: -4px; line-height: 1.11; margin: 15px 0 16px; }
@@ -53,9 +53,8 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .primary:hover { background: #27533d; box-shadow: 0 4px 12px #183c2e18; }
 .hero-start { margin-top: 24px; min-width: 200px; }
 .hero-selected { display: inline-block; color: var(--muted); font-size: 13px; padding: 8px 0 8px 14px; }
-.hero-preview { display: flex; gap: 14px; position: relative; max-width: 480px; transform: rotate(2deg); margin-left: auto; width: 100%; padding-bottom: 8px; }
-.hero-preview .player-card.left { transform: rotate(-6deg) translateY(-3px); }
-.hero-preview .player-card.right { transform: rotate(3deg) translateY(12px); }
+.hero-preview { position: relative; width: 100%; max-width: 480px; height: 330px; margin-left: auto; }
+.hero-particle-ball { width: 100%; height: 100%; }
 .player-card { position: relative; isolation: isolate; overflow: hidden; border-radius: var(--radius); background: var(--navy); color: #fff; }
 .player-card.right { background: #294d78; }
 .player-card::before { content: ''; width: 330px; height: 330px; border: 1px solid #ffffff12; border-radius: 50%; position: absolute; top: 20px; left: 50%; transform: translateX(-50%); z-index: -1; }
@@ -77,22 +76,6 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .player-value > strong { font-size: clamp(18px, 2.5vw, 32px); line-height: 1.3; color: var(--green); margin: 3px 0; letter-spacing: -.5px; font-family: inherit; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
 .player-value small { font-size: 13px; color: #c2d0cb; margin-top: 2px; }
 .hidden-value > strong { color: #fff; }
-.preview-card { flex: 1; min-width: 0; border: 5px solid var(--surface); border-radius: 18px; box-shadow: 0 12px 22px #12282317; }
-.preview-card .card-top { padding: 11px 12px 0; font-size: 13px; }
-.preview-card .card-top > span:last-child { display: none; }
-.preview-card .card-label { padding: 1px 8px; font-size: 13px; }
-.preview-card .shirt-stage { height: 125px; margin-top: 5px; }
-.preview-card .jersey { width: 150px; }
-.preview-card .shirt-number { font-size: 125px; top: -22px; }
-.preview-card .player-info { padding: 4px 10px 17px; }
-.preview-card .player-info h2 { font-size: 20px; letter-spacing: -.7px; }
-.preview-card .player-club { font-size: 13px; margin-bottom: 0; white-space: nowrap; }
-.preview-card .player-latin { display: none; }
-.preview-card .player-value { margin-top: 9px; padding-top: 7px; }
-.preview-card .player-value > strong { font-size: 19px; }
-.preview-card .player-value > span { font-size: 13px; }
-.preview-vs { display: grid; place-items: center; position: absolute; top: 46%; left: 50%; transform: translate(-50%,-50%) rotate(-7deg); width: 48px; height: 48px; border-radius: 50%; background: var(--paper); border: 4px solid var(--paper); z-index: 3; font: 700 17px Arial, sans-serif; color: var(--ink); box-shadow: 0 3px 12px #112a2320; }
-.preview-sticker { display: flex; align-items: center; justify-content: center; gap: 10px; position: absolute; bottom: -4px; left: 50%; transform: translateX(-50%) rotate(-5deg); white-space: nowrap; background: var(--green); color: var(--green-dark); padding: 7px 16px; font-size: 13px; font-weight: 600; border-radius: 6px; box-shadow: 0 5px 12px #17302615; }
 .edition-section { margin-top: 17px; }
 .section-heading { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 15px; }
 .muted { color: var(--muted); }
@@ -122,8 +105,9 @@ svg { flex-shrink: 0; vertical-align: middle; }
 .edition-tag { font-size: 12px; font-weight: 500; color: #476539; padding: 1px 6px; border-radius: 4px; background: #e8efd9; white-space: nowrap; }
 .edition-meta { display: block; margin-top: 3px; font-size: 13px; color: var(--muted); }
 .edition-meta > span { color: #6c796f; white-space: nowrap; }
-.selection-indicator { display: grid; place-items: center; width: 22px; height: 22px; flex-shrink: 0; border: 1px solid #d4dcd0; border-radius: 50%; background: #fff; }
-.selected .selection-indicator { background: var(--green-dark); border-color: var(--green-dark); color: var(--green); }
+.selection-indicator { display: grid; place-items: center; width: 28px; height: 28px; flex-shrink: 0; color: #d1d8e0; }
+.selection-indicator svg { stroke-width: 2.5; }
+.selected .selection-indicator { color: var(--green-dark); }
 .edition-bottom { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 12px; }
 .edition-bottom p { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; font-size: 13px; color: var(--muted); }
 .edition-bottom strong { color: var(--ink); font-weight: 600; }
@@ -252,8 +236,6 @@ svg { flex-shrink: 0; vertical-align: middle; }
 @media (min-width: 1450px) {
   .hero { padding-top: 30px; padding-bottom: 45px; }
   .hero-preview { max-width: 500px; }
-  .preview-card .shirt-stage { height: 145px; }
-  .preview-card .jersey { width: 170px; }
 }
 @media (max-width: 1000px) {
   .hero { padding-left: 0; padding-right: 12px; gap: 25px; }
@@ -280,7 +262,8 @@ svg { flex-shrink: 0; vertical-align: middle; }
   .brand-caption { display: none; }
   .record-button { padding: 7px 11px; gap: 6px; }
   .record-button strong { margin-left: 6px; }
-  .hero { grid-template-columns: 1fr 1fr; gap: 14px; padding-top: 4px; padding-bottom: 18px; align-items: center; }
+  .hero { grid-template-columns: 1fr; gap: 0; padding-top: 4px; padding-bottom: 18px; }
+  .hero-copy { position: relative; z-index: 1; }
   .hero h1 { font-size: 48px; letter-spacing: -3px; margin: 12px 0; }
   .hero .eyebrow { font-size: 12px; line-height: 1.5; max-width: 170px; gap: 5px; letter-spacing: -.3px; }
   .hero .eyebrow > span:empty { flex-shrink: 0; width: 5px; height: 5px; }
@@ -288,24 +271,7 @@ svg { flex-shrink: 0; vertical-align: middle; }
   .hero-description br { display: none; }
   .hero-start { min-width: unset; width: 100%; margin-top: 18px; padding: 12px 15px; gap: 10px; }
   .hero-selected { font-size: 12px; padding-top: 6px; }
-  .hero-preview { flex-direction: column; padding-bottom: 0; max-width: 150px; min-width: 0; margin-right: 5px; gap: 8px; }
-  .hero-preview .player-card.left { transform: rotate(-6deg); }
-  .hero-preview .player-card.right { transform: rotate(4deg); margin-top: -4px; margin-left: 0; width: 100%; }
-  .preview-card { border-width: 3px; border-radius: 12px; min-height: 160px; }
-  .preview-card .card-top { padding: 6px 8px 0; }
-  .preview-card .card-label { font-size: 12px; padding: 0 6px; }
-  .preview-card .shirt-stage { height: 67px; margin-top: 0; }
-  .preview-card .jersey { width: 85px; }
-  .preview-card .player-photo { inset: 4px 8px 0; width: calc(100% - 16px); height: calc(100% - 4px); border-radius: 6px; }
-  .preview-card .shirt-number { font-size: 75px; top: -12px; }
-  .preview-card .player-club { display: none; }
-  .preview-card .player-info { padding: 2px 8px 8px; }
-  .preview-card .player-info h2 { font-size: 16px; }
-  .preview-card .player-value { margin-top: 3px; padding-top: 2px; flex-direction: row; justify-content: center; gap: 7px; }
-  .preview-card .player-value > span { font-size: 12px; }
-  .preview-card .player-value > strong { font-size: 15px; }
-  .preview-vs { display: none; }
-  .preview-sticker { display: none; }
+  .hero-preview { position: absolute; z-index: 0; top: -15px; right: -35px; width: min(68vw, 270px); height: 190px; opacity: .7; }
   .edition-section { margin-top: 16px; }
   .section-heading { gap: 8px; justify-content: flex-start}
   .section-heading .eyebrow { font-size: 12px; }
@@ -324,8 +290,6 @@ svg { flex-shrink: 0; vertical-align: middle; }
   .edition-meta > span { display: block; }
   .edition-card:first-child .edition-meta > span { display: inline; }
   .edition-tag { font-size: 12px; }
-  .selection-indicator { width: 17px; height: 17px; }
-  .selection-indicator svg { width: 13px; height: 13px; }
   .edition-bottom p { gap: 5px; font-size: 12px; }
   .divider-text { margin: 0; }
   .edition-bottom .text-button { white-space: nowrap; padding: 7px 3px; font-size: 12px; }
@@ -384,16 +348,15 @@ svg { flex-shrink: 0; vertical-align: middle; }
 }
 @media (max-width: 370px) {
   .app { padding-left: 12px; padding-right: 12px; }
-  .hero { gap: 5px; }
+  .hero { gap: 0; }
   .hero h1 { font-size: 43px; }
-  .hero-preview { margin-right: 9px; max-width: 143px; }
+  .hero-preview { right: 10px; width: 230px; height: 180px; }
   .hero-start { font-size: 14px; padding: 12px 10px; gap: 5px; }
   .edition-card { padding: 10px 8px; gap: 5px; }
   .league-mark { width: 25px; }
   .edition-card:first-child .edition-info { display: block; }
   .edition-card:first-child .edition-meta { font-size: 12px; }
   .edition-name { font-size: 14px; }
-  .selection-indicator { width: 15px; height: 15px; }
   .section-heading h2 { font-size: 19px; }
   .difficulty-control button { min-width: 46px; padding-left: 6px; padding-right: 6px; }
   .edition-bottom p { max-width: 200px; }
@@ -417,7 +380,6 @@ button:focus-visible, a:focus-visible { outline-color: #175bd4; }
 .edition-tag { color: #285ca4; background: #e7f0ff; }
 .edition-meta > span, .footer { color: #637386; }
 .difficulty-control, .text-button:hover, .icon-button:hover { background: #edf1f7; }
-.selection-indicator { border-color: #cbd7e6; }
 .how-strip > div > span, .how-strip > svg, .divider-text, .footer-dot { color: #6e86a6; }
 .how-strip strong { color: #344960; }
 .screen-game { background: #f4f7fb; }

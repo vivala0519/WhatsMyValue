@@ -69,11 +69,7 @@ export function advance(match: Match, pool: Player[], random: Random = Math.rand
 // Source: https://exchangerates.me/eur/krw, 2026-10-29 06:00 UTC.
 export const EUR_TO_KRW = 1489.26
 export function formatValue(value: number): string {
-  const won = Math.round(value * 1_000_000 * EUR_TO_KRW)
+  const eok = Math.round(value * 1_000_000 * EUR_TO_KRW / 100_000_000)
   const n = new Intl.NumberFormat('ko-KR')
-  if (won < 10_000) return `${n.format(won)}원`
-  const man = Math.round(won / 10_000)
-  const eok = Math.floor(man / 10_000)
-  const rest = man % 10_000
-  return `${eok ? `${n.format(eok)}억` : ''}${eok && rest ? ' ' : ''}${rest ? `${n.format(rest)}만` : ''} 원`
+  return `${n.format(eok)}억 원`
 }
