@@ -7,6 +7,7 @@ import type {Difficulty, Guess, Match} from './game'
 import {readRecords, recordKey, writeRecords} from './storage'
 import {Icon, Jersey, LeagueMark} from './Art'
 import {ParticleBall} from './ParticleBall'
+import {useInterstitialAd} from './useInterstitialAd'
 
 function Modal({title, onClose, children}: { title: string; onClose: () => void; children: ReactNode }) {
     const ref = useRef<HTMLDialogElement>(null)
@@ -66,6 +67,8 @@ function PlayerPhoto({player}: { player: Player }) {
 }
 
 export default function App() {
+    const showInterstitial = useInterstitialAd()
+    const adShownForGame = useRef(false)
     const [edition, setEdition] = useState<EditionId>('world')
     const [difficulty, setDifficulty] = useState<Difficulty>('easy')
     const [records, setRecords] = useState(readRecords)
@@ -81,6 +84,7 @@ export default function App() {
     const allTimeBest = Math.max(0, ...Object.values(records.best))
 
     function start() {
+        adShownForGame.current = false
         finishedSaved.current = false
         setPreviousBest(best)
         setMatch(newMatch(getPool(edition), Math.random, difficulty))
@@ -120,6 +124,12 @@ export default function App() {
         setRecords(next)
         setSaveFailed(!writeRecords(next))
     }, [match, best, difficulty, edition, records])
+
+    useEffect(() => {
+        if (match?.phase !== 'finished' || adShownForGame.current) return
+        adShownForGame.current = true
+        showInterstitial.current()
+    }, [match?.phase, showInterstitial])
 
     useEffect(() => {
         if (!match || modal || match.phase !== 'guessing') return

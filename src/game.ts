@@ -5,9 +5,11 @@ export type Guess = 'higher' | 'lower' | 'equal'
 export type Random = () => number
 
 export function isCorrect(a: number, b: number, guess: Guess, difficulty: Difficulty): boolean {
-  if (guess === 'equal') return difficulty === 'hard' && a === b
-  if (guess === 'higher') return b > a
-  return b < a
+  const left = roundedWonEok(a)
+  const right = roundedWonEok(b)
+  if (guess === 'equal') return difficulty === 'hard' && left === right
+  if (guess === 'higher') return right > left
+  return right < left
 }
 
 export function scoreValue(score: number, difficulty: Difficulty): number {
@@ -39,7 +41,7 @@ export interface Match {
 export function newMatch(pool: Player[], random: Random = Math.random, difficulty: Difficulty = 'easy'): Match {
   if (pool.length < 2 || new Set(pool.map(p => p.id)).size !== pool.length) throw new Error('서로 다른 선수가 2명 이상 필요합니다.')
   const [left, ...deck] = shuffle(pool, random)
-  const index = difficulty === 'easy' ? deck.findIndex(p => p.value !== left.value) : 0
+  const index = difficulty === 'easy' ? deck.findIndex(p => roundedWonEok(p.value) !== roundedWonEok(left.value)) : 0
   if (index < 0) throw new Error('쉬움 모드에는 서로 다른 가치의 선수가 필요합니다.')
   const [right] = deck.splice(index, 1)
   const remaining = deck
@@ -57,7 +59,7 @@ export function advance(match: Match, pool: Player[], random: Random = Math.rand
   if (match.phase !== 'revealed') return match
   if (!match.correct) return { ...match, phase: 'finished' }
   let remaining = [...match.remaining]
-  const eligible = (p: Player) => p.id !== match.right.id && (difficulty !== 'easy' || p.value !== match.right.value)
+  const eligible = (p: Player) => p.id !== match.right.id && (difficulty !== 'easy' || roundedWonEok(p.value) !== roundedWonEok(match.right.value))
   if (!remaining.some(eligible)) remaining = shuffle(pool.filter(eligible), random)
   const index = remaining.findIndex(eligible)
   const [right] = remaining.splice(index, 1)
@@ -68,8 +70,11 @@ export function advance(match: Match, pool: Player[], random: Random = Math.rand
 // Indicative EUR/KRW mid-market rate, fixed for reproducible rounds.
 // Source: https://exchangerates.me/eur/krw, 2026-10-29 06:00 UTC.
 export const EUR_TO_KRW = 1489.26
+function roundedWonEok(value: number): number {
+  return Math.round(value * 1_000_000 * EUR_TO_KRW / 100_000_000)
+}
 export function formatValue(value: number): string {
-  const eok = Math.round(value * 1_000_000 * EUR_TO_KRW / 100_000_000)
+  const eok = roundedWonEok(value)
   const n = new Intl.NumberFormat('ko-KR')
   return `${n.format(eok)}억 원`
 }

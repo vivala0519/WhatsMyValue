@@ -71,7 +71,20 @@ test('shuffle preserves inputs; invalid pools and easy equality are rejected', (
   assert.deepEqual(answer(match, 'equal', 'easy'), match)
 })
 
-test('market values use the fixed euro-won rate without changing comparison inputs', () => {
+test('rounded won amounts determine answers and easy mode pairings', () => {
+  assert.equal(formatValue(1), formatValue(1.001))
+  assert.equal(isCorrect(1, 1.001, 'equal', 'hard'), true)
+  assert.equal(isCorrect(1, 1.001, 'higher', 'hard'), false)
+  assert.equal(isCorrect(1.001, 1, 'lower', 'hard'), false)
+  const pool = players.slice(0, 3).map((p, i) => ({...p, value: [1, 1.001, 2][i]}))
+  const match = newMatch(pool, () => .99, 'easy')
+  assert.notEqual(formatValue(match.left.value), formatValue(match.right.value))
+  const revealed = answer(match, match.right.value > match.left.value ? 'higher' : 'lower', 'easy')
+  const next = advance(revealed, pool, () => .99, 'easy')
+  assert.notEqual(formatValue(next.left.value), formatValue(next.right.value))
+})
+
+test('market values use the fixed euro-won rate', () => {
   assert.equal(formatValue(220), '3,276억 원')
   assert.equal(formatValue(.000001), '0억 원')
   assert.equal(formatValue(0), '0억 원')
