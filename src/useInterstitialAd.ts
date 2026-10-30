@@ -2,13 +2,13 @@ import {useEffect, useRef} from 'react'
 import {loadFullScreenAd, showFullScreenAd} from '@apps-in-toss/web-framework'
 
 const testId = 'ait-ad-test-interstitial-id'
-const adGroupId = import.meta.env.DEV ? testId : (import.meta.env.VITE_INTERSTITIAL_AD_GROUP_ID || testId)
+const adGroupId = import.meta.env.DEV ? testId : (import.meta.env.VITE_INTERSTITIAL_AD_GROUP_ID || '').trim()
 
 export function useInterstitialAd() {
   const showRef = useRef<() => void>(() => {})
 
   useEffect(() => {
-    if (!loadFullScreenAd.isSupported() || !showFullScreenAd.isSupported()) return
+    if (!adGroupId || !loadFullScreenAd.isSupported() || !showFullScreenAd.isSupported()) return
     let disposed = false
     let ready = false
     let loading = false
